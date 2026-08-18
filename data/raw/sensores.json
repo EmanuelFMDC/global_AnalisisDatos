@@ -1,0 +1,38 @@
+[
+  {
+    "sensor_id": ["S001"],
+    "nombre": ["Sensor Centro Norte"],
+    "zona": ["Centro"],
+    "estado": ["activo"]
+  },
+  {
+    "sensor_id": ["S002"],
+    "nombre": ["Sensor Americana"],
+    "zona": ["Americana"],
+    "estado": ["activo"]
+  },
+  {
+    "sensor_id": ["S003"],
+    "nombre": ["Sensor Providencia"],
+    "zona": ["Providencia"],
+    "estado": ["inactivo"]
+  },
+  {
+    "sensor_id": ["S004"],
+    "nombre": ["Sensor Industrial A"],
+    "zona": ["Zona Industrial"],
+    "estado": ["activo"]
+  },
+  {
+    "sensor_id": ["S005"],
+    "nombre": ["Sensor Tlaquepaque"],
+    "zona": ["Tlaquepaque Centro"],
+    "estado": ["activo"]
+  },
+  {
+    "sensor_id": ["S006"],
+    "nombre": ["Sensor Chapalita"],
+    "zona": ["Chapalita"],
+    "estado": ["mantenimiento"]
+  }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zonas>
+  <zona>
+    <nombre>Centro</nombre>
+    <municipio>Guadalajara</municipio>
+    <tipo>Comercial</tipo>
+  </zona>
+  <zona>
+    <nombre>Americana</nombre>
+    <municipio>Guadalajara</municipio>
+    <tipo>Mixta</tipo>
+  </zona>
+  <zona>
+    <nombre>Providencia</nombre>
+    <municipio>Guadalajara</municipio>
+    <tipo>Residencial</tipo>
+  </zona>
+  <zona>
+    <nombre>Chapalita</nombre>
+    <municipio>Guadalajara</municipio>
+    <tipo>Residencial</tipo>
+  </zona>
+  <zona>
+    <nombre>Zona Industrial</nombre>
+    <municipio>Guadalajara</municipio>
+    <tipo>Industrial</tipo>
+  </zona>
+  <zona>
+    <nombre>Tlaquepaque Centro</nombre>
+    <municipio>Tlaquepaque</municipio>
+    <tipo>Comercial</tipo>
+  </zona>
+</zonas>

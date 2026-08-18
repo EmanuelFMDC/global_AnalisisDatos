@@ -1,0 +1,1498 @@
+id,fecha,hora,zona,tipo_zona,lat,lng,decibeles,trafico,temperatura,humedad,comentario
+1,2025-07-09,0,Tlaquepaque Centro,Comercial,20.642,-103.312,41.8,22,17.8,67.6,Zona ruidosa
+2,2025-07-29,9,Providencia,Residencial,20.6612,-103.389,76.3,51,23.1,56.4,Poco tráfico
+3,2025-02-14,22,Americana,Mixta,20.6666,-103.381,75.8,70,27,83,Zona tranquila
+4,2025-07-20,20,Chapalita,Residencial,20.658,-103.402,42,49,21.8,65.1,Poco tráfico
+5,2025-03-22,11,Providencia,Residencial,20.6612,-103.389,52,35,25.1,58,Ruido por construcción
+6,2025-05-29,6,Americana,Mixta,20.6666,-103.381,64.2,64,24.7,75.8,Tráfico intenso
+7,2025-03-15,4,Tlaquepaque Centro,Comercial,20.642,-103.312,30,35,17.3,54.2,Música alta
+8,2025-02-14,17,Tlaquepaque Centro,Comercial,20.642,-103.312,101.4,82,25.4,64.2,Zona tranquila
+9,2025-05-29,7,Zona Industrial,Industrial,20.645,-103.32,111.2,61,23.5,69.5,Mucho tráfico
+10,2025-07-03,14,Americana,Mixta,20.6666,-103.381,72.8,67,31.2,54,Sin incidencias
+11,2025-05-01,6,Zona Industrial,Comercial,20.642,-103.312,72.8,62,24.3,77.7,Música alta
+12,2025-05-02,13,Providencia,Residencial,20.6612,-103.389,54.2,48,30,63.9,Muchos camiones
+13,2025-05-02,9,Centro,Comercial,20.6737,-103.344,104.7,100,24.7,87.9,Ruido por construcción
+14,2025-05-03,23,Zona Industrial,Industrial,20.645,-103.32,76.7,41,25.7,37.8,Mucho tráfico
+15,2025-06-17,15,Providencia,Residencial,20.6612,-103.389,54.3,27,30.2,58.5,Sin incidencias
+16,2025-05-10,2,Centro,Comercial,20.6737,-103.344,35.9,40,16.3,53.9,Ruido por construcción
+17,2025-04-13,21,Chapalita,Residencial,20.658,-103.402,53.6,41,21.9,55.1,Zona tranquila
+18,2025-02-26,22,Chapalita,Residencial,20.658,-103.402,53.7,38,22.4,75.2,Sin incidencias
+19,2025-02-07,10,Zona Industrial,Industrial,20.645,-103.32,87.6,50,25.4,57.2,Ruido por construcción
+20,2025-07-20,2,Chapalita,Residencial,20.658,-103.402,30,8,18.8,64.3,Tráfico intenso
+21,2025-06-17,7,Americana,Mixta,20.6666,-103.381,95.5,85,22,71.8,Mercado cercano
+22,2025-07-14,16,Americana,Mixta,20.6666,-103.381,75.9,70,29.1,37.8,Mucho ruido
+23,2025-04-19,21,Centro,Comercial,20.6737,-103.344,66.1,62,23.8,25.2,Mercado cercano
+24,2025-04-22,12,Chapalita,Residencial,20.658,-103.402,56.1,27,32.6,51,Sin incidencias
+25,2025-03-15,14,Tlaquepaque Centro,Comercial,20.642,-103.312,65,72,33.8,69.7,Sin incidencias
+26,2025-05-14,11,Centro,Comercial,20.6737,-103.344,81.1,71,27.1,49.1,Zona ruidosa
+27,2025-05-28,8,Tlaquepaque Centro,Comercial,20.642,-103.312,104.6,89,24.8,53.1,Zona tranquila
+28,2025-04-17,18,Americana,Mixta,20.6666,-103.381,87.1,86,26.8,55,Zona tranquila
+29,2025-06-23,18,Americana,Mixta,20.6666,-103.381,91.6,77,22.5,47.7,Mucho ruido
+30,2025-03-04,5,Americana,Mixta,20.6666,-103.381,39.1,43,21.2,80.2,Muchos camiones
+31,2025-05-20,12,Americana,Mixta,20.6666,-103.381,71.4,60,29.7,78.6,Muchos camiones
+32,2025-02-07,8,Centro,Comercial,20.6737,-103.344,103.5,98,22,51.7,Mucho ruido
+33,2025-06-17,10,Americana,Mixta,20.6666,-103.381,69.1,58,19.6,46.4,Música alta
+34,2025-07-19,13,Tlaquepaque Centro,Comercial,20.642,-103.312,71.4,58,31.5,66.3,Música alta
+35,2025-04-15,18,Americana,Mixta,20.6666,-103.381,86.4,84,21.5,59.6,Zona tranquila
+36,2025-02-23,20,Zona Industrial,Industrial,20.645,-103.32,77.6,48,22.8,39.5,Zona ruidosa
+37,2025-07-05,22,Americana,Mixta,20.6666,-103.381,61.1,53,24.2,57.5,Obras en la zona
+38,2025-03-25,17,Providencia,Residencial,20.6612,-103.389,68.1,35,25.3,54.1,Obras en la zona
+39,2025-06-15,21,Tlaquepaque Centro,Comercial,20.642,-103.312,63.3,60,25.5,67.5,Mercado cercano
+40,2025-03-25,23,Zona Industrial,Industrial,20.645,-103.32,87.1,74,23.2,72.2,Sin incidencias
+41,2025-07-05,20,Americana,Mixta,20.6666,-103.381,64.1,59,23.7,49.9,Mucho tráfico
+42,2025-07-16,12,Chapalita,Residencial,20.658,-103.402,55.4,54,28.8,54.5,Poco tráfico
+43,2025-03-06,11,Zona Industrial,Industrial,20.645,-103.32,95.2,70,24.6,81.1,Mucho ruido
+44,2025-04-10,18,Tlaquepaque Centro,Comercial,20.642,-103.312,98.2,90,24.2,54.7,Poco tráfico
+45,2025-04-13,11,Chapalita,Residencial,20.658,-103.402,44.7,35,25.5,56,Música alta
+46,2025-04-17,20,Centro,Comercial,20.6737,-103.344,76.1,52,22.3,57,Poco tráfico
+47,2025-04-04,19,Americana,Mixta,20.6666,-103.381,88.4,89,21,65.2,Ruido por construcción
+48,2025-06-21,3,Americana,Mixta,20.6666,-103.381,30.9,29,21.4,58.1,Mucho tráfico
+49,2025-05-08,22,Chapalita,Residencial,20.658,-103.402,52,45,21.2,69.3,Poco tráfico
+50,2025-05-02,15,Chapalita,Residencial,20.658,-103.402,52.9,26,29.9,49.4,Poco tráfico
+51,2025-07-03,16,Zona Industrial,Industrial,20.645,-103.32,90.6,58,27,51.4,Zona tranquila
+52,2025-03-10,11,Centro,Comercial,20.6737,-103.344,73.7,74,24.5,55,Muchos camiones
+53,2025-02-21,1,Americana,Mixta,20.6666,-103.381,35.9,43,17.3,56.2,Mercado cercano
+54,2025-03-13,4,Providencia,Residencial,20.6612,-103.389,30.5,15,15.5,40.2,Música alta
+55,2025-07-25,18,Americana,Mixta,20.6666,-103.381,90.4,77,21.5,66.2,Obras en la zona
+56,2025-05-01,12,Zona Industrial,Industrial,20.645,-103.32,82.9,48,28.7,59,Mucho ruido
+57,2025-04-01,6,Americana,Mixta,20.6666,-103.381,73.8,60,24.4,38.6,Mucho ruido
+58,2025-02-16,23,Centro,Comercial,20.6737,-103.344,68.7,64,23.5,49.5,Muchos camiones
+59,2025-05-27,4,Tlaquepaque Centro,Comercial,20.642,-103.312,43.4,34,16.1,31.7,Obras en la zona
+60,2025-05-05,6,Zona Industrial,Industrial,20.645,-103.32,89.6,51,23.7,58.5,Poco tráfico
+61,2025-02-06,15,Zona Industrial,Industrial,20.645,-103.32,86.3,65,28.1,70.7,Ruido por construcción
+62,2025-04-27,11,Chapalita,Residencial,20.658,-103.402,48.3,25,22.5,48.9,Zona ruidosa
+63,2025-04-27,10,Chapalita,Residencial,20.658,-103.402,42.7,14,20.9,52.4,Obras en la zona
+64,2025-03-11,18,Tlaquepaque Centro,Comercial,20.642,-103.312,99.1,78,23,50.4,Sin incidencias
+65,2025-07-09,5,Chapalita,Residencial,20.658,-103.402,32.5,15,15.8,64.8,Poco tráfico
+66,2025-05-29,23,Chapalita,Residencial,20.658,-103.402,51.2,20,25.1,51.7,Tráfico intenso
+67,2025-03-22,11,Centro,Comercial,20.6737,-103.344,71.2,60,28.3,89.2,Obras en la zona
+68,2025-03-06,12,Chapalita,Residencial,20.658,-103.402,46.9,31,31.8,50.9,Zona tranquila
+69,2025-02-04,5,Zona Industrial,Industrial,20.645,-103.32,32.4,17,17.1,68.8,Ruido por construcción
+70,2025-02-13,9,Chapalita,Residencial,20.658,-103.402,62.9,42,25.5,69,Ruido por construcción
+71,2025-04-10,7,Zona Industrial,Industrial,20.645,-103.32,115,72,25.5,49.8,Mercado cercano
+72,2025-06-07,9,Providencia,Residencial,20.6612,-103.389,56.7,52,26,47.9,Sin incidencias
+73,2025-07-03,5,Americana,Mixta,20.6666,-103.381,30,31,21,46.7,Sin incidencias
+74,2025-03-24,18,Chapalita,Residencial,20.658,-103.402,75.7,36,23.1,56,Mercado cercano
+75,2025-02-22,22,Chapalita,Residencial,20.658,-103.402,47.4,30,25.2,62,Mercado cercano
+76,2025-04-30,16,Providencia,Residencial,20.6612,-103.389,61.4,44,30.2,68.2,Muchos camiones
+77,2025-07-10,21,Tlaquepaque Centro,Comercial,20.642,-103.312,77.6,65,21.2,59,Sin incidencias
+78,2025-02-25,20,Americana,Mixta,20.6666,-103.381,77,57,23.5,43.3,Zona tranquila
+79,2025-03-07,1,Providencia,Residencial,20.6612,-103.389,30,17,18.2,68.4,Zona ruidosa
+80,2025-07-18,22,Providencia,Residencial,20.6612,-103.389,62.1,34,22.3,52.4,Poco tráfico
+81,2025-05-23,18,Zona Industrial,Industrial,20.645,-103.32,110,59,25.8,61.3,Sin incidencias
+82,2025-03-02,18,Zona Industrial,Industrial,20.645,-103.32,92.2,62,26,81.7,Mucho ruido
+83,2025-06-20,19,Chapalita,Residencial,20.658,-103.402,63.5,38,27.2,63.4,Tráfico intenso
+84,2025-07-09,12,Americana,Mixta,20.6666,-103.381,65.5,63,34.2,69.2,Tráfico intenso
+85,2025-06-01,0,Americana,Mixta,20.6666,-103.381,32.5,43,17.5,73.4,Muchos camiones
+86,2025-05-21,5,Tlaquepaque Centro,Comercial,20.642,-103.312,32.7,34,18,39.5,Poco tráfico
+87,2025-07-08,4,Providencia,Residencial,20.6612,-103.389,30,12,19.3,46.3,Música alta
+88,2025-04-05,17,Tlaquepaque Centro,Comercial,20.642,-103.312,77.8,68,22.5,58.9,Música alta
+89,2025-06-22,6,Zona Industrial,Industrial,20.645,-103.32,75.6,46,27.4,70.2,Poco tráfico
+90,2025-04-08,16,Americana,Mixta,20.6666,-103.381,77.5,61,29.8,53.7,Tráfico intenso
+91,2025-07-01,14,Americana,Mixta,20.6666,-103.381,74.8,49,30.1,67.6,Mercado cercano
+92,2025-06-02,4,Americana,Mixta,20.6666,-103.381,32.9,32,16.5,47.9,Mucho tráfico
+93,2025-04-20,4,Americana,Mixta,20.6666,-103.381,30,29,20.8,66.4,Mercado cercano
+94,2025-04-26,12,Americana,Mixta,20.6666,-103.381,60.8,53,29.4,68.9,Muchos camiones
+95,2025-07-15,7,Centro,Comercial,20.6737,-103.344,98.5,78,24.2,68.1,Mucho tráfico
+96,2025-06-16,18,Tlaquepaque Centro,Comercial,20.642,-103.312,96.1,90,24.8,74.3,Mucho ruido
+97,2025-03-23,0,Americana,Mixta,20.6666,-103.381,32.9,33,21.3,53.9,Muchos camiones
+98,2025-04-15,3,Centro,Comercial,20.6737,-103.344,40.2,38,20.6,59.2,Música alta
+99,2025-07-28,23,Chapalita,Residencial,20.658,-103.402,63.5,37,25.8,61.1,Tráfico intenso
+100,2025-05-17,17,Tlaquepaque Centro,Comercial,20.642,-103.312,81.9,62,23.3,55.4,Obras en la zona
+101,2025-05-09,3,Tlaquepaque Centro,Comercial,20.642,-103.312,44.1,40,18.5,70,Sin incidencias
+102,2025-04-15,7,Centro,Comercial,20.6737,-103.344,100.7,93,26.8,58.4,Muchos camiones
+103,2025-06-07,23,Zona Industrial,Industrial,20.645,-103.32,74.5,47,24.5,54,Sin incidencias
+104,2025-07-24,20,Tlaquepaque Centro,Comercial,20.642,-103.312,82.9,81,23.1,57.7,Poco tráfico
+105,2025-02-17,21,Centro,Comercial,20.6737,-103.344,83.1,70,27.2,49.8,Muchos camiones
+106,2025-03-18,22,Zona Industrial,Industrial,20.645,-103.32,84.2,63,25.5,89.8,Ruido por construcción
+107,2025-03-26,22,Chapalita,Residencial,20.658,-103.402,49.5,16,26,39.7,Sin incidencias
+108,2025-07-13,3,Centro,Comercial,20.6737,-103.344,33.8,27,19.1,49.5,Mercado cercano
+109,2025-05-21,17,Tlaquepaque Centro,Comercial,20.642,-103.312,97.2,86,21.8,43.7,Obras en la zona
+110,2025-05-05,13,Centro,Comercial,20.6737,-103.344,77,60,29.6,62.6,Tráfico intenso
+111,2025-04-20,11,Americana,Mixta,20.6666,-103.381,57.8,61,23.8,44.4,Mucho tráfico
+112,2025-02-24,10,Chapalita,Residencial,20.658,-103.402,61.6,47,27.8,57.4,Música alta
+113,2025-05-24,23,Centro,Comercial,20.6737,-103.344,71,56,23.4,46.4,Tráfico intenso
+114,2025-05-18,10,Centro,Comercial,20.6737,-103.344,73.3,64,22.7,62.6,Ruido por construcción
+115,2025-06-15,23,Providencia,Residencial,20.6612,-103.389,49.8,24,21.2,70.3,Mucho ruido
+116,2025-07-01,16,Americana,Mixta,20.6666,-103.381,78.7,78,28.5,76.6,Mercado cercano
+117,2025-07-04,22,Centro,Comercial,20.6737,-103.344,83.1,78,24.1,62.4,Mucho ruido
+118,2025-05-13,1,Americana,Mixta,20.6666,-103.381,35.3,27,16.9,44.9,Obras en la zona
+119,2025-07-10,9,Centro,Comercial,20.6737,-103.344,101.2,86,27.1,53.7,Zona tranquila
+120,2025-06-15,21,Chapalita,Residencial,20.658,-103.402,40.7,26,23,50.1,Mucho tráfico
+121,2025-07-05,3,Americana,Mixta,20.6666,-103.381,31.8,25,16.6,63.3,Sin incidencias
+122,2025-07-20,5,Americana,Mixta,20.6666,-103.381,35.2,30,16,74.7,Ruido por construcción
+123,2025-02-05,9,Americana,Mixta,20.6666,-103.381,92.2,72,25.8,62,Tráfico intenso
+124,2025-04-11,18,Americana,Mixta,20.6666,-103.381,87,78,25.9,53.9,Mucho ruido
+125,2025-02-16,5,Zona Industrial,Industrial,20.645,-103.32,38.3,1,15.2,62.9,Tráfico intenso
+126,2025-02-24,8,Americana,Mixta,20.6666,-103.381,91,90,21.4,57.3,Mercado cercano
+127,2025-03-04,23,Americana,Mixta,20.6666,-103.381,71.4,60,25.8,58.3,Zona tranquila
+128,2025-02-21,15,Chapalita,Residencial,20.658,-103.402,53.6,32,33.5,70.4,Mercado cercano
+129,2025-03-27,12,Tlaquepaque Centro,Comercial,20.642,-103.312,82.6,75,28.4,81.4,Sin incidencias
+130,2025-04-16,8,Chapalita,Residencial,20.658,-103.402,62.3,36,20.7,57.2,Mercado cercano
+131,2025-07-14,6,Chapalita,Residencial,20.658,-103.402,55.7,28,24.2,53.4,Zona ruidosa
+132,2025-04-24,18,Zona Industrial,Industrial,20.645,-103.32,106.3,64,26.7,67.6,Mucho ruido
+133,2025-03-11,23,Americana,Mixta,20.6666,-103.381,69.9,52,22.5,57.4,Zona tranquila
+134,2025-03-26,9,Chapalita,Residencial,20.658,-103.402,71.1,50,21.6,45.3,Sin incidencias
+135,2025-06-17,17,Zona Industrial,Industrial,20.645,-103.32,110.6,68,26.8,44.7,Muchos camiones
+136,2025-03-20,23,Americana,Mixta,20.6666,-103.381,71.3,57,23.1,46.5,Zona ruidosa
+137,2025-04-18,23,Americana,Mixta,20.6666,-103.381,69.1,67,22.8,73.3,Poco tráfico
+138,2025-04-24,7,Chapalita,Residencial,20.658,-103.402,70.5,34,24,63.2,Obras en la zona
+139,2025-05-22,15,Chapalita,Residencial,20.658,-103.402,54,23,29.6,58.3,Obras en la zona
+140,2025-03-11,14,Tlaquepaque Centro,Comercial,20.642,-103.312,75.6,63,30.9,72.1,Mercado cercano
+141,2025-02-01,17,Centro,Comercial,20.6737,-103.344,88.1,77,26.4,59.2,Obras en la zona
+142,2025-07-18,16,Centro,Comercial,20.6737,-103.344,85.8,65,28.2,73.7,Ruido por construcción
+143,2025-03-02,15,Americana,Mixta,20.6666,-103.381,63.5,58,26.7,55.5,Mucho ruido
+144,2025-05-05,4,Centro,Comercial,20.6737,-103.344,42.4,26,20.5,57.9,Zona ruidosa
+145,2025-02-16,22,Tlaquepaque Centro,Comercial,20.642,-103.312,68.5,60,28.3,80.1,Zona tranquila
+146,2025-04-29,2,Centro,Comercial,20.6737,-103.344,44.2,41,17.3,41.1,Sin incidencias
+147,2025-03-26,5,Americana,Mixta,20.6666,-103.381,36.8,20,19.9,64.1,Tráfico intenso
+148,2025-07-26,23,Americana,Mixta,20.6666,-103.381,58.5,36,23.9,59.2,Sin incidencias
+149,2025-02-20,18,Americana,Mixta,20.6666,-103.381,93.5,91,21.7,62.3,Poco tráfico
+150,2025-05-15,10,Tlaquepaque Centro,Comercial,20.642,-103.312,80.5,63,23.9,69,Sin incidencias
+151,2025-05-04,10,Providencia,Residencial,20.6612,-103.389,47.2,31,26,69,Poco tráfico
+152,2025-07-14,11,Providencia,Residencial,20.6612,-103.389,61.7,48,25.7,60.9,Obras en la zona
+153,2025-03-24,0,Chapalita,Residencial,20.658,-103.402,32.4,22,18.8,75.2,Obras en la zona
+154,2025-05-19,7,Providencia,Residencial,20.6612,-103.389,74.7,48,24.3,53.8,Música alta
+155,2025-02-22,6,Centro,Residencial,20.658,-103.402,44.1,14,24.9,63.2,Zona tranquila
+156,2025-07-27,14,Americana,Mixta,20.6666,-103.381,60.6,49,30.3,54.5,Sin incidencias
+157,2025-03-14,4,Providencia,Residencial,20.6612,-103.389,35.4,22,17.1,42.2,Tráfico intenso
+158,2025-03-31,2,Zona Industrial,Industrial,20.645,-103.32,42,36,19.6,60.2,Obras en la zona
+159,2025-04-25,6,Americana,Mixta,20.6666,-103.381,120,70,24.8,68.2,Zona tranquila
+160,2025-02-11,12,Centro,Comercial,20.6737,-103.344,80,75,34.2,60.2,Zona ruidosa
+161,2025-06-01,19,Americana,Mixta,20.6666,-103.381,73.8,61,24.5,45.4,Tráfico intenso
+162,2025-06-16,8,Centro,Comercial,20.6737,-103.344,114.3,100,24.4,55.4,Sin incidencias
+163,2025-03-18,20,Providencia,Residencial,20.6612,-103.389,61.4,42,26.7,61.4,Música alta
+164,2025-04-26,11,Tlaquepaque Centro,Comercial,20.642,-103.312,72.9,76,21.5,71,Tráfico intenso
+165,2025-05-20,13,Chapalita,Residencial,20.658,-103.402,56,32,31.9,45.2,Ruido por construcción
+166,2025-05-18,6,Americana,Mixta,20.6666,-103.381,65,50,21.6,79.3,Zona tranquila
+167,2025-04-18,8,Providencia,Residencial,20.6612,-103.389,87.3,63,26.1,44.3,Mucho tráfico
+168,2025-07-24,22,Tlaquepaque Centro,Comercial,20.642,-103.312,79.4,76,25,52.5,Mucho ruido
+169,2025-07-22,3,Zona Industrial,Industrial,20.645,-103.32,48.3,30,19,58,Mucho ruido
+170,2025-07-10,18,Chapalita,Residencial,20.658,-103.402,71.3,29,20.5,66.1,Tráfico intenso
+171,2025-03-08,8,Chapalita,Residencial,20.658,-103.402,63.2,21,21.7,61.5,Mucho ruido
+172,2025-07-23,1,Centro,Comercial,20.6737,-103.344,52.1,41,21.9,30,Mucho tráfico
+173,2025-06-22,23,Americana,Mixta,20.6666,-103.381,62.5,51,24,66.8,Mucho tráfico
+174,2025-02-16,16,Zona Industrial,Industrial,20.645,-103.32,76.3,53,26.7,58,Mucho tráfico
+175,2025-06-05,11,Providencia,Residencial,20.6612,-103.389,61.4,45,23.6,56.4,Obras en la zona
+176,2025-03-05,13,Zona Industrial,Industrial,20.645,-103.32,92.2,49,29.3,63.2,Muchos camiones
+177,2025-03-12,9,Chapalita,Residencial,20.658,-103.402,72.4,29,27.7,81.4,Zona ruidosa
+178,2025-07-18,6,Zona Industrial,Industrial,20.645,-103.32,91.6,70,24,69.5,Zona ruidosa
+179,2025-02-10,15,Chapalita,Residencial,20.658,-103.402,56.3,37,33.8,56.9,Poco tráfico
+180,2025-06-05,1,Centro,Comercial,20.6737,-103.344,46.5,55,18.7,57.9,Obras en la zona
+181,2025-02-09,9,Providencia,Residencial,20.6612,-103.389,60.3,48,21.7,59.9,Zona tranquila
+182,2025-02-07,18,Providencia,Residencial,20.6612,-103.389,79.9,49,24.6,45.3,Música alta
+183,2025-06-15,1,Chapalita,Residencial,20.658,-103.402,30,17,17.1,61.4,Mercado cercano
+184,2025-04-02,20,Tlaquepaque Centro,Comercial,20.642,-103.312,79.2,69,25.5,53,Poco tráfico
+185,2025-07-02,7,Centro,Comercial,20.6737,-103.344,109.8,77,24.4,56.3,Tráfico intenso
+186,2025-04-04,0,Chapalita,Residencial,20.658,-103.402,30,24,17.4,66,Mercado cercano
+187,2025-03-26,0,Centro,Comercial,20.6737,-103.344,37,31,21.8,61.2,Sin incidencias
+188,2025-07-01,14,Centro,Comercial,20.6737,-103.344,78.8,70,27.7,54.5,Mercado cercano
+189,2025-02-26,23,Tlaquepaque Centro,Comercial,20.642,-103.312,78.3,71,21.5,68.2,Música alta
+190,2025-03-05,17,Zona Industrial,Industrial,20.645,-103.32,106.7,69,23.8,65.8,Tráfico intenso
+191,2025-07-07,23,Americana,Mixta,20.6666,-103.381,72.8,66,23.4,64.5,Mercado cercano
+192,2025-05-26,2,Providencia,Residencial,20.6612,-103.389,30,18,15.7,73.5,Obras en la zona
+193,2025-02-10,15,Tlaquepaque Centro,Comercial,20.642,-103.312,75.4,52,31.5,54.1,Sin incidencias
+194,2025-03-25,3,Providencia,Residencial,20.6612,-103.389,31.9,24,16.6,41.9,Obras en la zona
+195,2025-03-26,6,Centro,Comercial,20.6737,-103.344,79.6,66,23.6,66.7,Zona ruidosa
+196,2025-05-18,1,Tlaquepaque Centro,Comercial,20.642,-103.312,31.8,33,16.4,77.6,Muchos camiones
+197,2025-02-11,13,Chapalita,Residencial,20.658,-103.402,51.7,30,31.3,65.7,Poco tráfico
+198,2025-02-25,3,Chapalita,Residencial,20.658,-103.402,30,14,20,56.5,Mercado cercano
+199,2025-03-24,16,Chapalita,Residencial,20.658,-103.402,52.6,40,30.3,71.2,Mucho tráfico
+200,2025-02-26,18,Americana,Mixta,20.6666,-103.381,88.9,81,25.7,44.2,Zona ruidosa
+201,2025-06-15,22,Americana,Mixta,20.6666,-103.381,59,54,22.9,69.3,Poco tráfico
+202,2025-07-03,7,Centro,Comercial,20.6737,-103.344,101.6,96,23.3,65.5,Zona ruidosa
+203,2025-05-01,18,Centro,Comercial,20.6737,-103.344,103.1,100,24.8,54.3,Poco tráfico
+204,2025-07-10,6,Tlaquepaque Centro,Comercial,20.642,-103.312,79.4,76,25.2,63.7,Zona ruidosa
+205,2025-07-02,11,Zona Industrial,Industrial,20.645,-103.32,92.5,43,20.9,55.9,Zona ruidosa
+206,2025-03-29,1,Chapalita,Residencial,20.658,-103.402,30,22,20.3,75.3,Tráfico intenso
+207,2025-05-16,17,Providencia,Residencial,20.6612,-103.389,78.6,59,22.8,68.5,Música alta
+208,2025-05-12,15,Tlaquepaque Centro,Comercial,20.642,-103.312,75.2,65,29.5,64.4,Mercado cercano
+209,2025-02-23,22,Centro,Comercial,20.6737,-103.344,69.9,61,24,91.4,Sin incidencias
+210,2025-02-14,16,Chapalita,Residencial,20.658,-103.402,47.3,39,27.5,69.3,Mercado cercano
+211,2025-05-21,10,Zona Industrial,Industrial,20.645,-103.32,85.9,60,25.5,57.1,Zona ruidosa
+212,2025-06-14,1,Centro,Comercial,20.6737,-103.344,40.5,40,17.6,60.4,Zona tranquila
+213,2025-05-02,13,Centro,Residencial,20.6612,-103.389,63.5,41,30.1,65.9,Mucho tráfico
+214,2025-06-09,16,Tlaquepaque Centro,Comercial,20.642,-103.312,77.4,59,29.2,59.6,Sin incidencias
+215,2025-05-17,21,Chapalita,Residencial,20.658,-103.402,44.5,20,25,47.9,Ruido por construcción
+216,2025-05-24,12,Americana,Mixta,20.6666,-103.381,58.9,48,30.8,70.3,Zona ruidosa
+217,2025-04-22,21,Americana,Mixta,20.6666,-103.381,70.5,49,26,64.7,Poco tráfico
+218,2025-03-01,22,Tlaquepaque Centro,Comercial,20.642,-103.312,62.7,50,22.7,64.6,Mucho ruido
+219,2025-02-26,8,Chapalita,Residencial,20.658,-103.402,67.8,43,26.6,59.2,Mercado cercano
+220,2025-02-27,14,Centro,Comercial,20.6737,-103.344,68.35,76,30.1,43,Tráfico intenso
+221,2025-02-07,2,Tlaquepaque Centro,Comercial,20.642,-103.312,42.8,38,15,53.9,Muchos camiones
+222,2025-07-04,23,Chapalita,Residencial,20.658,-103.402,65.5,42,22.6,51.7,Obras en la zona
+223,2025-03-13,5,Americana,Mixta,20.6666,-103.381,39.1,25,19.1,74.8,Zona ruidosa
+224,2025-06-14,9,Zona Industrial,Industrial,20.645,-103.32,97.7,65,21.8,68.2,Obras en la zona
+225,2025-07-09,11,Americana,Mixta,20.6666,-103.381,74.4,66,20.3,85.4,Poco tráfico
+226,2025-05-04,14,Americana,Mixta,20.6666,-103.381,60.6,37,29.5,62.9,Zona tranquila
+227,2025-06-25,8,Zona Industrial,Industrial,20.645,-103.32,115,76,25,54.2,Mercado cercano
+228,2025-07-15,14,Americana,Mixta,20.6666,-103.381,70.7,59,31.9,65.2,Música alta
+229,2025-03-29,3,Chapalita,Residencial,20.658,-103.402,30.7,13,14.9,68.5,Zona tranquila
+230,2025-06-28,8,Centro,Comercial,20.6737,-103.344,86.5,82,25.3,57.1,Zona ruidosa
+231,2025-07-13,4,Tlaquepaque Centro,Comercial,20.642,-103.312,32.7,30,16.9,59.9,Zona ruidosa
+232,2025-07-11,13,Providencia,Residencial,20.6612,-103.389,59.3,40,28.2,60.2,Poco tráfico
+233,2025-04-07,16,Tlaquepaque Centro,Comercial,20.642,-103.312,77.5,70,28.9,52.5,Zona tranquila
+234,2025-02-04,1,Providencia,Residencial,20.6612,-103.389,36.1,12,17.7,42.9,Poco tráfico
+235,2025-04-15,18,Tlaquepaque Centro,Comercial,20.642,-103.312,94.5,80,24,53.6,Tráfico intenso
+236,2025-06-13,4,Americana,Mixta,20.6666,-103.381,39.2,37,17.7,52.6,Zona ruidosa
+237,2025-05-28,23,Tlaquepaque Centro,Comercial,20.642,-103.312,71.6,68,22.3,51,Sin incidencias
+238,2025-02-25,10,Providencia,Residencial,20.6612,-103.389,57.1,54,24.5,67.8,Mucho ruido
+239,2025-06-16,0,Tlaquepaque Centro,Comercial,20.642,-103.312,43.6,44,18.5,47.3,Mercado cercano
+240,2025-03-27,6,Zona Industrial,Industrial,20.645,-103.32,85,59,24.4,78.2,Sin incidencias
+241,2025-04-26,14,Centro,Comercial,20.6737,-103.344,68.1,57,29.4,60.2,Música alta
+242,2025-03-17,4,Tlaquepaque Centro,Comercial,20.642,-103.312,35.8,36,18.3,45.9,Ruido por construcción
+243,2025-06-26,22,Chapalita,Residencial,20.658,-103.402,52,29,21,52.3,Mucho tráfico
+244,2025-07-20,10,Providencia,Residencial,20.6612,-103.389,48,45,22.6,76.9,Mercado cercano
+245,2025-07-09,15,Providencia,Residencial,20.6612,-103.389,62,60,26.9,64.6,Tráfico intenso
+246,2025-06-14,9,Tlaquepaque Centro,Comercial,20.642,-103.312,87.8,84,22.2,65,Muchos camiones
+247,2025-05-16,1,Tlaquepaque Centro,Comercial,20.642,-103.312,36.1,22,17.3,41.5,Sin incidencias
+248,2025-07-26,5,Americana,Mixta,20.6666,-103.381,30,26,22,59.5,Música alta
+249,2025-06-25,11,Centro,Residencial,20.658,-103.402,51.4,26,24,95,Zona tranquila
+250,2025-07-23,18,Chapalita,Residencial,20.658,-103.402,58.8,38,23.6,58.1,Zona ruidosa
+251,2025-03-25,11,Centro,Comercial,20.6737,-103.344,77.6,73,22.8,46.9,Mucho ruido
+252,2025-05-15,2,Americana,Mixta,20.6666,-103.381,37.9,31,16.4,62.6,Mucho tráfico
+253,2025-03-25,7,Chapalita,Residencial,20.658,-103.402,68.9,52,23.1,63,Mucho tráfico
+254,2025-04-04,22,Tlaquepaque Centro,Comercial,20.642,-103.312,74.9,80,26.3,50.3,Muchos camiones
+255,2025-05-04,12,Centro,Comercial,20.6737,-103.344,71.9,64,32.3,63,Poco tráfico
+256,2025-06-25,15,Tlaquepaque Centro,Comercial,20.642,-103.312,73.1,74,29.4,56,Mucho ruido
+257,2025-02-02,1,Centro,Comercial,20.6737,-103.344,30,25,18.2,82.3,Sin incidencias
+258,2025-07-27,12,Americana,Mixta,20.6666,-103.381,62.6,50,30.5,44.5,Zona tranquila
+259,2025-06-10,12,Providencia,Residencial,20.6612,-103.389,53.2,47,29.2,64.1,Ruido por construcción
+260,2025-06-21,20,Tlaquepaque Centro,Comercial,20.642,-103.312,70.9,75,23.7,46.9,Zona ruidosa
+261,2025-02-24,5,Zona Industrial,Industrial,20.645,-103.32,46.4,35,18,44.8,Zona tranquila
+262,2025-07-27,18,Tlaquepaque Centro,Comercial,20.642,-103.312,86.2,74,26.2,50.6,Mucho ruido
+263,2025-06-10,10,Providencia,Residencial,20.6612,-103.389,64.5,46,24.2,51.7,Mucho ruido
+264,2025-07-15,11,Americana,Mixta,20.6666,-103.381,68.3,71,25.6,67.6,Mucho ruido
+265,2025-04-17,10,Zona Industrial,Industrial,20.645,-103.32,89,63,27.4,36.8,Zona ruidosa
+266,2025-06-01,0,Zona Industrial,Industrial,20.645,-103.32,30,21,17,56.2,Zona tranquila
+267,2025-02-13,7,Tlaquepaque Centro,Comercial,20.642,-103.312,106.2,89,25.5,61.9,Mucho tráfico
+268,2025-07-20,0,Americana,Mixta,20.6666,-103.381,35.4,14,16.8,47,Mercado cercano
+269,2025-05-17,23,Tlaquepaque Centro,Comercial,20.642,-103.312,71,51,20.2,50.9,Sin incidencias
+270,2025-07-16,7,Chapalita,Residencial,20.658,-103.402,68.6,31,21.2,55.1,Muchos camiones
+271,2025-05-23,11,Tlaquepaque Centro,Comercial,20.642,-103.312,77.3,67,24,55.8,Mercado cercano
+272,2025-04-05,7,Chapalita,Residencial,20.658,-103.402,58.2,33,25.7,49.8,Muchos camiones
+273,2025-04-21,15,Centro,Comercial,20.6737,-103.344,85.1,76,30.3,72.3,Muchos camiones
+274,2025-03-08,9,Americana,Mixta,20.6666,-103.381,78.2,74,25.1,45.5,Poco tráfico
+275,2025-03-07,14,Centro,Comercial,20.6737,-103.344,76.4,65,34,60.7,Poco tráfico
+276,2025-04-28,9,Zona Industrial,Industrial,20.645,-103.32,115,67,20.8,70.4,Mercado cercano
+277,2025-04-08,23,Providencia,Residencial,20.6612,-103.389,56.5,41,27.4,69.4,Tráfico intenso
+278,2025-03-20,7,Centro,Comercial,20.6737,-103.344,104.2,94,25.6,64.6,Zona ruidosa
+279,2025-05-22,7,Zona Industrial,Industrial,20.645,-103.32,115,75,25,71,Poco tráfico
+280,2025-02-23,1,Centro,Comercial,20.6737,-103.344,40.4,21,17.7,45.7,Sin incidencias
+281,2025-06-17,13,Tlaquepaque Centro,Comercial,20.642,-103.312,73.7,63,30.9,52.6,Obras en la zona
+282,2025-04-02,17,Providencia,Residencial,20.6612,-103.389,71.6,54,27.1,61.6,Mercado cercano
+283,2025-03-11,10,Centro,Comercial,20.6737,-103.344,78.8,77,24.5,53.7,Mucho tráfico
+284,2025-03-03,1,Americana,Mixta,20.6666,-103.381,43.8,30,21.1,72.5,Ruido por construcción
+285,2025-04-14,18,Americana,Mixta,20.6666,-103.381,94.3,89,24.9,61.7,Obras en la zona
+286,2025-03-08,15,Americana,Mixta,20.6666,-103.381,64.8,66,29.6,85,Zona ruidosa
+287,2025-02-22,1,Tlaquepaque Centro,Comercial,20.642,-103.312,30,23,18,69.2,Muchos camiones
+288,2025-06-02,8,Chapalita,Residencial,20.658,-103.402,65.4,48,26.1,46.8,Poco tráfico
+289,2025-07-22,22,Centro,Comercial,20.6737,-103.344,83.8,80,21.4,70.6,Zona tranquila
+290,2025-03-13,4,Chapalita,Residencial,20.658,-103.402,34.7,16,18.4,58.3,Tráfico intenso
+291,2025-05-03,5,Centro,Comercial,20.6737,-103.344,32,32,18.8,37.5,Zona tranquila
+292,2025-05-04,17,Centro,Comercial,20.6737,-103.344,85,91,25.9,58.4,Sin incidencias
+293,2025-06-05,16,Providencia,Residencial,20.6612,-103.389,65.3,47,27.1,59.9,Tráfico intenso
+294,2025-03-15,11,Chapalita,Residencial,20.658,-103.402,53.3,28,23.3,60.9,Poco tráfico
+295,2025-03-11,14,Providencia,Residencial,20.6612,-103.389,51.4,45,31.3,87.5,Música alta
+296,2025-07-15,1,Providencia,Residencial,20.6612,-103.389,30,17,15.2,58.1,Mucho tráfico
+297,2025-05-18,13,Chapalita,Residencial,20.658,-103.402,46.7,34,33,56.7,Ruido por construcción
+298,2025-03-05,1,Centro,Comercial,20.6737,-103.344,43.5,42,16.1,48,Zona ruidosa
+299,2025-04-24,15,Americana,Mixta,20.6666,-103.381,77.3,84,29.6,41.4,Ruido por construcción
+300,2025-06-20,14,Centro,Comercial,20.6737,-103.344,78.9,70,32.4,54,Muchos camiones
+301,2025-05-09,9,Chapalita,Residencial,20.658,-103.402,76.4,39,26.2,60.5,Zona tranquila
+302,2025-02-21,20,Centro,Comercial,20.6737,-103.344,73,57,20.7,45.5,Mercado cercano
+303,2025-04-17,23,Tlaquepaque Centro,Comercial,20.642,-103.312,78.7,76,26.1,68.8,Ruido por construcción
+304,2025-05-05,2,Chapalita,Residencial,20.658,-103.402,30,16,16.3,58.9,Ruido por construcción
+305,2025-03-07,1,Chapalita,Residencial,20.658,-103.402,30,7,16.8,56.9,Mucho ruido
+306,2025-03-02,10,Chapalita,Residencial,20.658,-103.402,59.2,21,24.8,51,Ruido por construcción
+307,2025-07-28,7,Zona Industrial,Industrial,20.645,-103.32,115,71,22,53.3,Sin incidencias
+308,2025-07-25,15,Tlaquepaque Centro,Comercial,20.642,-103.312,81.8,64,28.1,57.7,Música alta
+309,2025-05-29,8,Providencia,Residencial,20.6612,-103.389,77.4,47,21.9,31.5,Muchos camiones
+310,2025-04-08,14,Providencia,Residencial,20.6612,-103.389,60.7,29,32.9,70.9,Mucho tráfico
+311,2025-05-26,12,Chapalita,Residencial,20.658,-103.402,50.1,26,28.7,65.9,Mucho ruido
+312,2025-06-01,22,Chapalita,Residencial,20.658,-103.402,40.7,28,21.4,38.5,Música alta
+313,2025-04-23,17,Centro,Comercial,20.6737,-103.344,105.1,82,20.1,49.6,Poco tráfico
+314,2025-05-07,14,Providencia,Residencial,20.6612,-103.389,61.7,33,28.4,50.7,Sin incidencias
+315,2025-05-13,11,Centro,Comercial,20.6737,-103.344,79.9,61,22.6,58.2,Tráfico intenso
+316,2025-07-20,20,Centro,Comercial,20.6737,-103.344,67.8,51,22,46.3,Zona tranquila
+317,2025-07-18,8,Chapalita,Residencial,20.658,-103.402,68,35,27,82.2,Mucho tráfico
+318,2025-07-20,2,Zona Industrial,Industrial,20.645,-103.32,41.2,27,21.5,62.3,Tráfico intenso
+319,2025-05-07,12,Providencia,Residencial,20.6612,-103.389,60.5,41,31.5,55.9,Mucho tráfico
+320,2025-02-26,8,Centro,Comercial,20.6737,-103.344,103.4,90,25.9,84.4,Mercado cercano
+321,2025-06-21,15,Zona Industrial,Industrial,20.645,-103.32,78.7,56,30.3,42.9,Zona ruidosa
+322,2025-06-28,4,Centro,Comercial,20.6737,-103.344,32,26,21.3,61.5,Obras en la zona
+323,2025-06-28,7,Tlaquepaque Centro,Comercial,20.642,-103.312,87.6,78,25.5,84.3,Mucho ruido
+324,2025-05-05,17,Zona Industrial,Industrial,20.645,-103.32,113.8,71,27.1,34.7,Obras en la zona
+325,2025-07-19,5,Tlaquepaque Centro,Comercial,20.642,-103.312,35.1,38,17.9,74.5,Zona tranquila
+326,2025-06-16,7,Centro,Comercial,20.6737,-103.344,99.3,100,24.4,89.5,Mucho tráfico
+327,2025-07-17,10,Americana,Mixta,20.6666,-103.381,73,69,23.5,74.4,Zona ruidosa
+328,2025-04-22,10,Zona Industrial,Industrial,20.645,-103.32,87.8,49,26,64.4,Muchos camiones
+329,2025-04-23,21,Centro,Comercial,20.6737,-103.344,79,73,22.8,71.2,Música alta
+330,2025-05-17,5,Zona Industrial,Industrial,20.645,-103.32,38.3,18,19,39.8,Ruido por construcción
+331,2025-05-30,3,Centro,Comercial,20.6737,-103.344,41.7,24,17.1,54.6,Tráfico intenso
+332,2025-02-11,14,Chapalita,Residencial,20.658,-103.402,58.6,35,27.9,63.3,Tráfico intenso
+333,2025-05-24,16,Chapalita,Residencial,20.658,-103.402,44.8,30,29.4,40.5,Música alta
+334,2025-05-19,7,Chapalita,Residencial,20.658,-103.402,67.3,31,25.3,65.3,Muchos camiones
+335,2025-06-10,21,Zona Industrial,Industrial,20.645,-103.32,86.2,68,23.2,54.1,Tráfico intenso
+336,2025-06-27,10,Centro,Comercial,20.642,-103.312,81,60,22.2,74.1,Mercado cercano
+337,2025-06-21,21,Americana,Mixta,20.6666,-103.381,63.7,61,24,61.3,Obras en la zona
+338,2025-03-03,17,Americana,Mixta,20.6666,-103.381,87.6,81,24.3,66.5,Mercado cercano
+339,2025-07-08,13,Centro,Comercial,20.642,-103.312,80.5,60,29.2,71.4,Mucho ruido
+340,2025-05-26,11,Zona Industrial,Industrial,20.645,-103.32,86.4,62,22.8,59.2,Zona ruidosa
+341,2025-02-22,7,Providencia,Residencial,20.6612,-103.389,67.9,43,23.8,57.3,Obras en la zona
+342,2025-05-05,2,Zona Industrial,Industrial,20.645,-103.32,48.9,16,19.2,46.9,Ruido por construcción
+343,2025-02-16,9,Zona Industrial,Industrial,20.645,-103.32,96.8,55,27.4,52.6,Mucho ruido
+344,2025-07-14,18,Zona Industrial,Industrial,20.645,-103.32,114.5,70,23,67.3,Mucho ruido
+345,2025-07-28,11,Tlaquepaque Centro,Comercial,20.642,-103.312,75.6,64,22.8,63.6,Ruido por construcción
+346,2025-07-11,13,Centro,Comercial,20.6737,-103.344,83.5,66,28.3,75.6,Ruido por construcción
+347,2025-07-06,12,Americana,Mixta,20.6666,-103.381,62.9,56,31.4,50.6,Zona ruidosa
+348,2025-07-27,5,Americana,Mixta,20.6666,-103.381,30,25,18.9,85.5,Poco tráfico
+349,2025-02-12,22,Centro,Comercial,20.6737,-103.344,80,73,24.2,62.4,Obras en la zona
+350,2025-07-31,6,Providencia,Residencial,20.6612,-103.389,64.5,41,28.2,62.4,Ruido por construcción
+351,2025-07-06,20,Chapalita,Residencial,20.658,-103.402,44.2,40,23.4,59.5,Tráfico intenso
+352,2025-04-07,20,Americana,Mixta,20.6666,-103.381,71.1,58,22.5,59.3,Música alta
+353,2025-03-22,3,Centro,Mixta,20.6666,-103.381,30,30,16.4,48.5,Zona tranquila
+354,2025-07-25,9,Providencia,Residencial,20.6612,-103.389,76.8,32,23.1,37.5,Mucho ruido
+355,2025-07-29,15,Zona Industrial,Industrial,20.645,-103.32,89.9,50,29.1,61.1,Zona tranquila
+356,2025-05-28,22,Providencia,Residencial,20.6612,-103.389,60,40,21.7,56.3,Zona tranquila
+357,2025-06-14,15,Zona Industrial,Industrial,20.645,-103.32,73.5,44,30.2,61.2,Ruido por construcción
+358,2025-06-08,2,Providencia,Residencial,20.6612,-103.389,30,17,16.8,62.5,Mucho ruido
+359,2025-06-02,18,Tlaquepaque Centro,Comercial,20.642,-103.312,96.1,80,24.4,69.3,Mercado cercano
+360,2025-06-23,18,Chapalita,Residencial,20.658,-103.402,72.5,45,23.6,48.7,Zona ruidosa
+361,2025-06-27,6,Zona Industrial,Industrial,20.645,-103.32,85,49,23.6,72.3,Zona ruidosa
+362,2025-03-31,20,Providencia,Residencial,20.6612,-103.389,67.7,41,25.3,44.2,Música alta
+363,2025-02-03,5,Americana,Mixta,20.6666,-103.381,37.4,20,18.9,69.7,Muchos camiones
+364,2025-05-08,14,Centro,Comercial,20.6737,-103.344,78.7,64,29,64.7,Muchos camiones
+365,2025-03-05,1,Chapalita,Residencial,20.658,-103.402,33.6,21,20.4,66,Tráfico intenso
+366,2025-03-20,13,Chapalita,Residencial,20.658,-103.402,59,32,28.2,49.2,Mucho ruido
+367,2025-04-16,3,Providencia,Residencial,20.6612,-103.389,30,18,18.3,43.7,Música alta
+368,2025-05-11,21,Chapalita,Residencial,20.658,-103.402,46.3,11,20.4,82.9,Poco tráfico
+369,2025-05-19,21,Centro,Comercial,20.6737,-103.344,86.9,86,26.5,66.2,Música alta
+370,2025-03-17,9,Zona Industrial,Industrial,20.645,-103.32,111.4,69,25.7,49.7,Mercado cercano
+371,2025-02-10,4,Zona Industrial,Industrial,20.645,-103.32,46.9,39,19.9,68.8,Ruido por construcción
+372,2025-07-20,11,Centro,Comercial,20.6737,-103.344,67.1,51,24.7,38.3,Sin incidencias
+373,2025-02-24,3,Chapalita,Residencial,20.658,-103.402,30,10,16.7,62.2,Mucho tráfico
+374,2025-05-03,2,Americana,Mixta,20.6666,-103.381,39.7,35,19.7,43.1,Muchos camiones
+375,2025-06-26,6,Providencia,Residencial,20.6612,-103.389,59.9,37,23.9,48.5,Ruido por construcción
+376,2025-03-31,10,Centro,Comercial,20.6737,-103.344,79.1,72,25.7,48.7,Zona ruidosa
+377,2025-06-17,21,Zona Industrial,Industrial,20.645,-103.32,91.5,56,25.6,49.3,Sin incidencias
+378,2025-03-25,14,Americana,Mixta,20.6666,-103.381,77.2,60,28.9,82.5,Muchos camiones
+379,2025-06-19,1,Americana,Mixta,20.6666,-103.381,40.9,43,16.2,64,Tráfico intenso
+380,2025-05-19,8,Chapalita,Residencial,20.658,-103.402,74.3,40,22.2,46.7,Sin incidencias
+381,2025-02-08,12,Chapalita,Residencial,20.658,-103.402,33.3,22,26.6,51.4,Música alta
+382,2025-05-25,10,Americana,Mixta,20.6666,-103.381,60.9,44,26.9,62,Poco tráfico
+383,2025-02-05,22,Americana,Mixta,20.6666,-103.381,73.3,77,21.5,54.3,Obras en la zona
+384,2025-03-01,7,Chapalita,Residencial,20.658,-103.402,56.6,36,27,39.6,Tráfico intenso
+385,2025-03-22,7,Zona Industrial,Industrial,20.645,-103.32,100.8,53,25.5,76.1,Sin incidencias
+386,2025-04-11,5,Tlaquepaque Centro,Comercial,20.642,-103.312,37.1,32,14.8,72.8,Obras en la zona
+387,2025-04-15,4,Providencia,Residencial,20.6612,-103.389,30,22,16.6,56.2,Mercado cercano
+388,2025-02-26,8,Chapalita,Residencial,20.658,-103.402,68.4,26,28.1,63.8,Tráfico intenso
+389,2025-04-14,8,Americana,Mixta,20.6666,-103.381,93.1,67,23.4,59.1,Tráfico intenso
+390,2025-02-11,4,Providencia,Residencial,20.6612,-103.389,36.4,19,15.2,76.9,Sin incidencias
+391,2025-05-30,15,Centro,Comercial,20.6737,-103.344,77.5,73,30.7,55.9,Música alta
+392,2025-02-06,9,Americana,Mixta,20.6666,-103.381,97.7,68,25.8,42,Mucho tráfico
+393,2025-05-07,0,Zona Industrial,Industrial,20.645,-103.32,46.7,36,19.5,43.9,Música alta
+394,2025-07-05,9,Chapalita,Residencial,20.658,-103.402,57.3,43,23,59.5,Mercado cercano
+395,2025-05-30,1,Providencia,Residencial,20.6612,-103.389,35.3,43,19.2,49.1,Mucho ruido
+396,2025-04-29,2,Americana,Mixta,20.6666,-103.381,35.6,31,20.7,67.9,Muchos camiones
+397,2025-07-06,12,Zona Industrial,Industrial,20.645,-103.32,77.2,40,27.5,53.4,Zona tranquila
+398,2025-04-08,6,Centro,Comercial,20.6737,-103.344,84.2,60,24.1,65.7,Mucho ruido
+399,2025-05-21,12,Centro,Comercial,20.6737,-103.344,85.4,76,29.3,67,Música alta
+400,2025-07-18,21,Centro,Comercial,20.6737,-103.344,85.8,83,21.9,51.5,Tráfico intenso
+401,2025-06-14,14,Providencia,Residencial,20.6612,-103.389,47.4,41,27,46.6,Obras en la zona
+402,2025-03-08,5,Americana,Mixta,20.6666,-103.381,30,25,15.7,47.1,Tráfico intenso
+403,2025-03-27,14,Centro,Comercial,20.6737,-103.344,81.2,60,29.4,74.3,Obras en la zona
+404,2025-06-03,1,Americana,Mixta,20.6666,-103.381,30.7,27,16,62.2,Tráfico intenso
+405,2025-05-31,16,Chapalita,Residencial,20.658,-103.402,41.6,2,27,60.3,Poco tráfico
+406,2025-05-05,2,Centro,Comercial,20.6737,-103.344,42.9,32,19,58.5,Mucho tráfico
+407,2025-03-20,17,Chapalita,Residencial,20.658,-103.402,73.9,38,23.3,65.7,Música alta
+408,2025-02-10,9,Zona Industrial,Industrial,20.645,-103.32,115,55,24.7,71.9,Sin incidencias
+409,2025-07-03,11,Providencia,Residencial,20.6612,-103.389,59.1,41,25.7,70.1,Tráfico intenso
+410,2025-07-16,7,Americana,Mixta,20.6666,-103.381,98.4,81,22.4,64.2,Zona ruidosa
+411,2025-05-11,7,Tlaquepaque Centro,Comercial,20.642,-103.312,80.3,75,25,56.3,Muchos camiones
+412,2025-05-16,8,Zona Industrial,Industrial,20.645,-103.32,111.4,58,22,72.8,Mucho ruido
+413,2025-02-25,3,Zona Industrial,Industrial,20.645,-103.32,39.1,15,16.7,62,Tráfico intenso
+414,2025-06-12,19,Providencia,Residencial,20.6612,-103.389,74.1,41,21,54.8,Tráfico intenso
+415,2025-07-30,14,Americana,Mixta,20.6666,-103.381,69.2,53,31.6,68.2,Poco tráfico
+416,2025-02-22,16,Centro,Comercial,20.6737,-103.344,64.4,61,26.9,64.1,Ruido por construcción
+417,2025-05-28,1,Providencia,Residencial,20.6612,-103.389,30,19,16.2,38.9,Zona tranquila
+418,2025-02-24,6,Americana,Mixta,20.6666,-103.381,70,57,23.1,73,Obras en la zona
+419,2025-07-17,12,Centro,Comercial,20.6737,-103.344,79.4,67,32,58.4,Sin incidencias
+420,2025-03-19,7,Centro,Comercial,20.6737,-103.344,106.8,83,23.2,56.8,Ruido por construcción
+421,2025-03-09,20,Chapalita,Residencial,20.658,-103.402,44,22,23,66.6,Poco tráfico
+422,2025-07-24,20,Providencia,Residencial,20.6612,-103.389,62,32,23.8,79.7,Mucho tráfico
+423,2025-03-26,21,Americana,Mixta,20.6666,-103.381,78.8,65,21.9,70.2,Zona ruidosa
+424,2025-03-19,16,Providencia,Residencial,20.6612,-103.389,60.7,52,30.4,66.7,Música alta
+425,2025-06-24,11,Chapalita,Residencial,20.658,-103.402,56.6,35,23.5,64.5,Obras en la zona
+426,2025-02-19,12,Americana,Mixta,20.6666,-103.381,74.1,72,35,59.9,Zona tranquila
+427,2025-07-09,15,Chapalita,Residencial,20.658,-103.402,55.2,28,30.5,60.9,Zona tranquila
+428,2025-06-02,9,Tlaquepaque Centro,Comercial,20.642,-103.312,104.2,78,28.1,70.8,Muchos camiones
+429,2025-03-09,4,Centro,Comercial,20.6737,-103.344,44,38,17.4,71,Música alta
+430,2025-05-14,14,Zona Industrial,Industrial,20.645,-103.32,85.7,46,27.7,67.1,Zona ruidosa
+431,2025-03-20,5,Providencia,Residencial,20.6612,-103.389,32.9,10,16.5,68.6,Obras en la zona
+432,2025-06-17,20,Zona Industrial,Comercial,20.642,-103.312,74.2,74,23.6,68.1,Mucho ruido
+433,2025-06-19,16,Providencia,Residencial,20.6612,-103.389,59.2,38,30.6,69.1,Muchos camiones
+434,2025-03-15,4,Chapalita,Residencial,20.658,-103.402,30,6,16,45.1,Sin incidencias
+435,2025-05-26,10,Tlaquepaque Centro,Comercial,20.642,-103.312,83.8,72,22.9,86.1,Música alta
+436,2025-07-08,15,Centro,Comercial,20.6737,-103.344,79.1,74,28.2,56.3,Tráfico intenso
+437,2025-03-27,11,Zona Industrial,Industrial,20.645,-103.32,87.8,63,24.7,60.8,Mucho ruido
+438,2025-07-12,10,Zona Industrial,Comercial,20.642,-103.312,65.8,65,24.4,65.4,Obras en la zona
+439,2025-03-29,23,Providencia,Residencial,20.6612,-103.389,54.4,25,21.3,57.9,Mucho tráfico
+440,2025-06-06,7,Tlaquepaque Centro,Comercial,20.642,-103.312,93.8,91,22.4,68.5,Mercado cercano
+441,2025-03-10,0,Centro,Comercial,20.6737,-103.344,44.3,43,16.3,59.3,Poco tráfico
+442,2025-04-25,22,Providencia,Residencial,20.6612,-103.389,58.4,58,24,64.5,Obras en la zona
+443,2025-04-04,2,Centro,Comercial,20.6737,-103.344,39.1,33,17.9,66.5,Muchos camiones
+444,2025-07-24,13,Centro,Comercial,20.6737,-103.344,82.1,91,32.7,69.2,Muchos camiones
+445,2025-04-19,9,Providencia,Residencial,20.6612,-103.389,72.1,57,26.2,41,Zona ruidosa
+446,2025-04-11,19,Providencia,Residencial,20.6612,-103.389,74.4,56,23.3,26.8,Mercado cercano
+447,2025-06-26,22,Providencia,Residencial,20.6612,-103.389,61.7,25,23.7,86,Mucho ruido
+448,2025-06-10,14,Chapalita,Residencial,20.658,-103.402,54.9,46,29.3,40.4,Mucho tráfico
+449,2025-05-31,6,Zona Industrial,Residencial,20.658,-103.402,46,31,23.7,38.1,Mucho ruido
+450,2025-04-16,22,Tlaquepaque Centro,Comercial,20.642,-103.312,75.9,68,23.8,75,Ruido por construcción
+451,2025-02-21,21,Chapalita,Residencial,20.658,-103.402,55.7,31,25.6,58.7,Mucho tráfico
+452,2025-04-28,15,Centro,Comercial,20.6737,-103.344,84.1,73,29.6,73.6,Poco tráfico
+453,2025-04-13,11,Tlaquepaque Centro,Comercial,20.642,-103.312,67.5,63,22.6,58.7,Mucho tráfico
+454,2025-03-31,19,Centro,Comercial,20.6737,-103.344,100.4,94,25.7,50.7,Mucho tráfico
+455,2025-07-15,8,Tlaquepaque Centro,Comercial,20.642,-103.312,98.9,98,23.1,63.5,Ruido por construcción
+456,2025-04-22,2,Providencia,Residencial,20.6612,-103.389,30,17,17.8,57,Mucho tráfico
+457,2025-03-27,18,Centro,Comercial,20.6737,-103.344,97.5,74,24.3,50.8,Mucho tráfico
+458,2025-06-14,12,Americana,Mixta,20.6666,-103.381,57.1,55,32.1,48.2,Sin incidencias
+459,2025-07-18,7,Providencia,Residencial,20.6612,-103.389,82.3,52,23.8,59.7,Mercado cercano
+460,2025-02-06,16,Centro,Comercial,20.6737,-103.344,76.2,78,29.7,49.7,Tráfico intenso
+461,2025-06-08,3,Zona Industrial,Industrial,20.645,-103.32,42.9,26,18.7,69.1,Mucho ruido
+462,2025-05-22,9,Tlaquepaque Centro,Comercial,20.642,-103.312,104.6,80,22.4,58.8,Música alta
+463,2025-07-06,16,Centro,Comercial,20.642,-103.312,62.3,44,29.9,48.8,Zona ruidosa
+464,2025-03-04,9,Providencia,Residencial,20.6612,-103.389,71,46,25.2,51.8,Ruido por construcción
+465,2025-03-21,4,Tlaquepaque Centro,Comercial,20.642,-103.312,35.8,26,18,44.9,Obras en la zona
+466,2025-04-25,10,Zona Industrial,Industrial,20.645,-103.32,92.9,55,22.9,67,Zona ruidosa
+467,2025-03-19,8,Tlaquepaque Centro,Comercial,20.642,-103.312,100.8,89,21.9,46.9,Muchos camiones
+468,2025-06-28,11,Americana,Mixta,20.6666,-103.381,55.8,40,23.9,66.9,Zona tranquila
+469,2025-06-10,4,Centro,Comercial,20.6737,-103.344,36.9,48,19.8,76,Sin incidencias
+470,2025-05-23,23,Centro,Comercial,20.6737,-103.344,85.5,70,26.2,69.4,Muchos camiones
+471,2025-05-30,3,Americana,Mixta,20.6666,-103.381,38.7,29,20.7,66.4,Muchos camiones
+472,2025-05-26,1,Providencia,Residencial,20.6612,-103.389,31.9,25,19.2,50.8,Poco tráfico
+473,2025-02-10,0,Chapalita,Residencial,20.658,-103.402,30,16,15.2,56.2,Zona ruidosa
+474,2025-05-26,18,Zona Industrial,Industrial,20.645,-103.32,115,74,25,79.1,Zona tranquila
+475,2025-03-31,15,Tlaquepaque Centro,Comercial,20.642,-103.312,76.9,60,29.8,70.1,Obras en la zona
+476,2025-03-21,10,Providencia,Residencial,20.6612,-103.389,116,38,23.3,61.9,Música alta
+477,2025-06-15,6,Providencia,Residencial,20.6612,-103.389,53.5,43,25.7,66.1,Mercado cercano
+478,2025-04-02,23,Tlaquepaque Centro,Comercial,20.642,-103.312,77.8,64,24.2,49.9,Tráfico intenso
+479,2025-07-16,4,Americana,Mixta,20.6666,-103.381,35.1,30,17,56.4,Mucho ruido
+480,2025-05-19,1,Centro,Comercial,20.6737,-103.344,39.4,36,17.6,54.9,Tráfico intenso
+481,2025-03-08,8,Centro,Comercial,20.6737,-103.344,87.9,72,23,71.3,Muchos camiones
+482,2025-05-28,20,Zona Industrial,Industrial,20.645,-103.32,88,58,24.7,50.2,Obras en la zona
+483,2025-02-23,14,Chapalita,Residencial,20.658,-103.402,42.5,28,27.4,45.7,Tráfico intenso
+484,2025-05-26,5,Americana,Mixta,20.6666,-103.381,40.2,46,18.9,53.1,Muchos camiones
+485,2025-07-12,5,Tlaquepaque Centro,Comercial,20.642,-103.312,34.1,21,19.9,60.9,Obras en la zona
+486,2025-04-29,22,Zona Industrial,Industrial,20.645,-103.32,86.4,58,22.9,58.9,Tráfico intenso
+487,2025-06-12,3,Tlaquepaque Centro,Comercial,20.642,-103.312,37.5,40,15.9,53.1,Muchos camiones
+488,2025-07-07,21,Centro,Comercial,20.6737,-103.344,81.4,66,22.1,53.7,Muchos camiones
+489,2025-07-29,14,Zona Industrial,Industrial,20.645,-103.32,90,44,31.2,51.1,Sin incidencias
+490,2025-07-28,5,Zona Industrial,Industrial,20.645,-103.32,49,29,15.9,69,Música alta
+491,2025-03-20,2,Providencia,Residencial,20.6612,-103.389,32.9,15,20.2,58.9,Sin incidencias
+492,2025-06-11,20,Americana,Mixta,20.6666,-103.381,79.8,62,20.1,69.2,Sin incidencias
+493,2025-03-05,9,Tlaquepaque Centro,Comercial,20.642,-103.312,96.6,87,22.6,50,Mercado cercano
+494,2025-07-12,4,Zona Industrial,Industrial,20.645,-103.32,39,21,15.9,74.6,Obras en la zona
+495,2025-04-07,5,Providencia,Residencial,20.6612,-103.389,37.3,11,18,56.4,Obras en la zona
+496,2025-04-05,0,Chapalita,Residencial,20.658,-103.402,30,9,16.1,62.3,Poco tráfico
+497,2025-07-18,2,Americana,Mixta,20.6666,-103.381,33.4,24,19.5,61.4,Música alta
+498,2025-02-20,7,Zona Industrial,Industrial,20.645,-103.32,115,68,27.1,62.1,Muchos camiones
+499,2025-04-19,1,Chapalita,Residencial,20.658,-103.402,30,17,19.1,44.8,Sin incidencias
+500,2025-07-03,13,Americana,Mixta,20.6666,-103.381,71.5,53,32,50.4,Muchos camiones
+501,2025-07-18,18,Americana,Mixta,20.6666,-103.381,86.7,76,23.7,57.3,Poco tráfico
+502,2025-05-06,0,Tlaquepaque Centro,Comercial,20.642,-103.312,38.2,41,14.3,46.7,Mucho ruido
+503,2025-06-30,22,Chapalita,Residencial,20.658,-103.402,59.9,44,24.3,68.4,Mucho tráfico
+504,2025-06-03,2,Centro,Comercial,20.6737,-103.344,48.4,35,20.8,48,Mercado cercano
+505,2025-04-27,4,Americana,Mixta,20.6666,-103.381,31.6,23,19.5,54.3,Mucho ruido
+506,2025-07-11,23,Chapalita,Residencial,20.658,-103.402,49.3,36,17.6,70.8,Sin incidencias
+507,2025-05-19,12,Chapalita,Residencial,20.658,-103.402,41.5,32,27.9,64,Obras en la zona
+508,2025-07-31,8,Zona Industrial,Industrial,20.645,-103.32,115,76,20.6,57.4,Mucho tráfico
+509,2025-07-09,16,Americana,Mixta,20.6666,-103.381,72.3,75,29.2,71.1,Zona ruidosa
+510,2025-03-18,14,Providencia,Residencial,20.6612,-103.389,56.3,38,26.3,65,Tráfico intenso
+511,2025-02-24,13,Americana,Mixta,20.6666,-103.381,65.9,64,32.5,67,Música alta
+512,2025-04-01,16,Providencia,Residencial,20.6612,-103.389,63.8,30,30.7,70.3,Mucho ruido
+513,2025-07-08,16,Tlaquepaque Centro,Comercial,20.642,-103.312,74.9,59,32.8,52.9,Mercado cercano
+514,2025-07-01,20,Chapalita,Residencial,20.658,-103.402,49.5,27,24.3,49.6,Ruido por construcción
+515,2025-02-17,7,Americana,Mixta,20.6666,-103.381,97.6,78,22.7,81.4,Muchos camiones
+516,2025-07-21,4,Chapalita,Residencial,20.658,-103.402,30,7,19.2,84.1,Ruido por construcción
+517,2025-02-23,11,Americana,Mixta,20.6666,-103.381,64.1,62,23.5,48.6,Obras en la zona
+518,2025-03-17,19,Americana,Mixta,20.6666,-103.381,88.8,70,24.4,63.7,Mercado cercano
+519,2025-06-16,19,Chapalita,Residencial,20.658,-103.402,65.7,35,21.5,73.4,Obras en la zona
+520,2025-04-20,4,Tlaquepaque Centro,Comercial,20.642,-103.312,33.4,19,15.6,61,Poco tráfico
+521,2025-07-14,23,Americana,Mixta,20.6666,-103.381,70.7,61,22.3,70.2,Obras en la zona
+522,2025-04-08,17,Centro,Comercial,20.6737,-103.344,98.4,88,26.3,37.5,Mucho ruido
+523,2025-03-11,7,Tlaquepaque Centro,Comercial,20.642,-103.312,108,93,30.1,52.8,Mucho ruido
+524,2025-07-11,18,Providencia,Residencial,20.6612,-103.389,67.7,27,23.3,64.5,Obras en la zona
+525,2025-07-16,2,Americana,Mixta,20.6666,-103.381,31.9,28,20.1,59.5,Sin incidencias
+526,2025-02-28,4,Americana,Mixta,20.6666,-103.381,31.4,26,12.1,49.6,Sin incidencias
+527,2025-04-28,7,Providencia,Residencial,20.6612,-103.389,76.4,60,22.8,62.4,Zona tranquila
+528,2025-07-31,11,Tlaquepaque Centro,Comercial,20.642,-103.312,79.6,61,23.2,45.2,Mercado cercano
+529,2025-05-13,4,Providencia,Residencial,20.6612,-103.389,30,12,17.6,70.6,Zona ruidosa
+530,2025-06-18,22,Tlaquepaque Centro,Comercial,20.642,-103.312,77.1,82,24.9,49.7,Zona ruidosa
+531,2025-05-20,14,Americana,Mixta,20.6666,-103.381,70.8,60,28.5,66.3,Mucho tráfico
+532,2025-05-13,23,Americana,Mixta,20.6666,-103.381,74.9,68,21.1,55.8,Mucho ruido
+533,2025-03-13,9,Centro,Comercial,20.6737,-103.344,102.6,93,26,70.7,Zona ruidosa
+534,2025-06-16,21,Tlaquepaque Centro,Comercial,20.642,-103.312,84.3,82,24.2,58.5,Música alta
+535,2025-06-09,21,Chapalita,Residencial,20.658,-103.402,51.6,30,21.1,79.8,Música alta
+536,2025-04-21,19,Zona Industrial,Industrial,20.645,-103.32,108.3,59,23.9,76.9,Mercado cercano
+537,2025-05-29,8,Tlaquepaque Centro,Comercial,20.642,-103.312,104.3,100,22.1,73,Tráfico intenso
+538,2025-04-19,8,Centro,Comercial,20.6737,-103.344,87,90,27.3,66.4,Poco tráfico
+539,2025-06-20,20,Centro,Comercial,20.6737,-103.344,78,76,26.7,63.8,Obras en la zona
+540,2025-04-13,16,Centro,Comercial,20.6737,-103.344,70.1,59,23.7,41.8,Música alta
+541,2025-06-07,8,Chapalita,Residencial,20.658,-103.402,52.7,37,27.1,56.3,Mercado cercano
+542,2025-03-13,9,Americana,Mixta,20.6666,-103.381,87.9,72,22.4,52.5,Zona ruidosa
+543,2025-02-08,23,Americana,Mixta,20.6666,-103.381,66.7,64,23.9,64.4,Zona ruidosa
+544,2025-03-24,4,Chapalita,Residencial,20.658,-103.402,30,16,17.8,67.9,Ruido por construcción
+545,2025-04-08,10,Chapalita,Residencial,20.658,-103.402,52.4,41,24,59.2,Ruido por construcción
+546,2025-07-18,15,Zona Industrial,Industrial,20.645,-103.32,90,55,31.8,67.8,Zona ruidosa
+547,2025-02-02,13,Chapalita,Residencial,20.658,-103.402,51.3,28,27,73.5,Ruido por construcción
+548,2025-04-06,13,Providencia,Residencial,20.6612,-103.389,55.3,45,33.2,57.9,Tráfico intenso
+549,2025-06-15,12,Centro,Comercial,20.6737,-103.344,69.1,57,32,53.2,Zona tranquila
+550,2025-03-01,14,Americana,Mixta,20.6666,-103.381,62,45,34.2,77.9,Sin incidencias
+551,2025-02-20,13,Tlaquepaque Centro,Comercial,20.642,-103.312,78,69,31.7,70.6,Obras en la zona
+552,2025-06-04,6,Zona Industrial,Industrial,20.645,-103.32,82.9,40,24.2,43.9,Música alta
+553,2025-04-21,9,Chapalita,Residencial,20.658,-103.402,73.7,50,26.7,60,Poco tráfico
+554,2025-02-07,8,Tlaquepaque Centro,Comercial,20.642,-103.312,101.5,92,25.8,78.8,Mercado cercano
+555,2025-03-17,12,Providencia,Residencial,20.6612,-103.389,53.2,32,30.9,50,Mucho ruido
+556,2025-04-17,13,Centro,Comercial,20.6737,-103.344,78.4,73,27.1,49.1,Mercado cercano
+557,2025-02-25,15,Zona Industrial,Industrial,20.645,-103.32,86.9,54,31.4,55.8,Muchos camiones
+558,2025-05-02,4,Chapalita,Residencial,20.658,-103.402,30,14,14.8,79.2,Tráfico intenso
+559,2025-06-21,12,Providencia,Residencial,20.6612,-103.389,53.2,16,31.4,52,Mucho tráfico
+560,2025-06-18,13,Providencia,Residencial,20.6612,-103.389,54.3,30,31.3,57.9,Mucho ruido
+561,2025-05-05,7,Centro,Comercial,20.6737,-103.344,107.6,97,24,53.8,Zona tranquila
+562,2025-06-07,6,Zona Industrial,Industrial,20.645,-103.32,77.2,54,21.8,51.4,Mucho ruido
+563,2025-07-19,2,Tlaquepaque Centro,Comercial,20.642,-103.312,31.7,39,16.4,65.5,Obras en la zona
+564,2025-02-12,12,Zona Industrial,Industrial,20.645,-103.32,85.2,51,33.4,58.3,Poco tráfico
+565,2025-02-08,13,Americana,Mixta,20.6666,-103.381,57,55,28.5,76.3,Poco tráfico
+566,2025-04-12,12,Zona Industrial,Industrial,20.645,-103.32,79.2,50,31.6,42.4,Zona tranquila
+567,2025-02-15,20,Providencia,Residencial,20.6612,-103.389,51.4,23,22.4,77,Tráfico intenso
+568,2025-04-24,12,Americana,Mixta,20.6666,-103.381,67.4,55,29.8,49.3,Ruido por construcción
+569,2025-07-27,13,Americana,Mixta,20.6666,-103.381,59.7,49,30.5,53.5,Obras en la zona
+570,2025-07-17,17,Chapalita,Residencial,20.658,-103.402,62.2,32,24.5,53.3,Obras en la zona
+571,2025-04-28,19,Chapalita,Residencial,20.658,-103.402,68.8,49,19.3,69.4,Mucho ruido
+572,2025-06-02,19,Providencia,Residencial,20.6612,-103.389,81.3,51,25.9,81.8,Ruido por construcción
+573,2025-07-13,10,Americana,Mixta,20.6666,-103.381,62.2,59,26.3,49.5,Mucho tráfico
+574,2025-06-14,7,Tlaquepaque Centro,Comercial,20.642,-103.312,89.5,70,22.7,67.9,Música alta
+575,2025-04-12,14,Chapalita,Residencial,20.658,-103.402,52.5,21,27.7,67.5,Zona ruidosa
+576,2025-02-04,7,Centro,Comercial,20.6737,-103.344,113.1,86,23.6,56.5,Poco tráfico
+577,2025-04-22,14,Tlaquepaque Centro,Comercial,20.642,-103.312,73.6,74,32.2,41.7,Muchos camiones
+578,2025-07-26,0,Tlaquepaque Centro,Comercial,20.642,-103.312,31.2,31,16.5,49.7,Obras en la zona
+579,2025-02-08,20,Tlaquepaque Centro,Comercial,20.642,-103.312,68,57,24.1,67.1,Mucho tráfico
+580,2025-07-31,17,Zona Industrial,Industrial,20.645,-103.32,112.7,68,21.9,60.6,Muchos camiones
+581,2025-04-08,8,Americana,Mixta,20.6666,-103.381,94.9,87,25.7,74.1,Muchos camiones
+582,2025-05-19,11,Americana,Mixta,20.6666,-103.381,77.5,61,22,50.3,Zona tranquila
+583,2025-06-08,16,Chapalita,Residencial,20.658,-103.402,42.8,23,31.3,60.2,Mercado cercano
+584,2025-07-31,12,Centro,Comercial,20.6737,-103.344,79.7,67,30,75.5,Mucho ruido
+585,2025-02-14,15,Providencia,Residencial,20.6612,-103.389,61.8,36,27.1,37.3,Zona ruidosa
+586,2025-07-06,0,Zona Industrial,Industrial,20.645,-103.32,39.6,10,18.6,49.1,Tráfico intenso
+587,2025-06-14,20,Chapalita,Residencial,20.658,-103.402,54.2,38,23.3,57.3,Mucho ruido
+588,2025-06-17,22,Zona Industrial,Industrial,20.645,-103.32,87.4,47,27.8,63.8,Zona ruidosa
+589,2025-07-11,5,Americana,Mixta,20.6666,-103.381,32.9,26,17.4,56.1,Tráfico intenso
+590,2025-05-27,16,Chapalita,Residencial,20.658,-103.402,53.7,24,27.7,73,Tráfico intenso
+591,2025-03-18,5,Centro,Comercial,20.6737,-103.344,37.8,41,23.9,66,Obras en la zona
+592,2025-04-05,3,Providencia,Residencial,20.6612,-103.389,30,20,17,80.1,Ruido por construcción
+593,2025-02-19,9,Americana,Mixta,20.6666,-103.381,90.2,84,26.7,43.1,Mucho ruido
+594,2025-05-09,14,Providencia,Residencial,20.6612,-103.389,69.6,48,28.3,67.1,Mucho ruido
+595,2025-06-09,22,Centro,Comercial,20.6737,-103.344,83.5,66,24.4,54.1,Poco tráfico
+596,2025-07-30,1,Americana,Mixta,20.6666,-103.381,34.7,32,16.5,62.6,Sin incidencias
+597,2025-04-09,6,Centro,Residencial,20.6612,-103.389,56,37,22.2,41.9,Mucho tráfico
+598,2025-05-01,17,Tlaquepaque Centro,Comercial,20.642,-103.312,100.4,77,24.8,47.4,Mercado cercano
+599,2025-06-02,8,Americana,Mixta,20.6666,-103.381,99.5,80,24.6,74.5,Mucho ruido
+600,2025-04-16,0,Providencia,Comercial,20.6612,-103.389,30,16,16.6,77.7,Ruido por construcción
+601,2025-06-13,10,Centro,Comercial,20.6737,-103.344,89.7,84,24.2,54.3,Zona tranquila
+602,2025-02-19,7,Americana,Mixta,20.6666,-103.381,93.9,96,23.3,59.9,Muchos camiones
+603,2025-03-07,17,Chapalita,Residencial,20.658,-103.402,64.8,56,24.7,37.5,Zona ruidosa
+604,2025-07-11,13,Tlaquepaque Centro,Comercial,20.642,-103.312,79.3,74,30.4,60.9,Mercado cercano
+605,2025-04-02,7,Americana,Mixta,20.6666,-103.381,91.9,75,22.9,55.8,Muchos camiones
+606,2025-07-01,7,Americana,Mixta,20.6666,-103.381,100,86,27,80.6,Sin incidencias
+607,2025-07-19,6,Centro,Comercial,20.6737,-103.344,72,68,25.5,66.3,Tráfico intenso
+608,2025-03-21,19,Zona Industrial,Industrial,20.645,-103.32,109.1,78,26.4,79,Sin incidencias
+609,2025-04-26,17,Centro,Comercial,20.6737,-103.344,89.4,83,23.7,63.3,Mucho tráfico
+610,2025-04-10,7,Providencia,Residencial,20.6612,-103.389,76.7,52,23.2,68.4,Obras en la zona
+611,2025-04-05,8,Chapalita,Residencial,20.658,-103.402,58.4,28,26.6,69.5,Obras en la zona
+612,2025-04-17,5,Tlaquepaque Centro,Comercial,20.642,-103.312,40.6,43,17.4,35,Mucho ruido
+613,2025-02-02,10,Centro,Comercial,20.6737,-103.344,69.2,69,22.1,70.4,Ruido por construcción
+614,2025-05-29,15,Americana,Mixta,20.6666,-103.381,67.2,54,31.3,66.2,Poco tráfico
+615,2025-02-18,9,Tlaquepaque Centro,Comercial,20.642,-103.312,109.2,95,24,69.4,Mucho ruido
+616,2025-02-04,4,Tlaquepaque Centro,Comercial,20.642,-103.312,35.7,29,16.2,60.9,Mucho tráfico
+617,2025-05-17,23,Centro,Comercial,20.642,-103.312,62.4,54,22.4,60.7,Tráfico intenso
+618,2025-05-22,19,Centro,Comercial,20.6737,-103.344,94.8,87,24.5,52.8,Mercado cercano
+619,2025-04-28,8,Zona Industrial,Industrial,20.645,-103.32,115,85,21.3,33.6,Poco tráfico
+620,2025-05-29,2,Americana,Mixta,20.6666,-103.381,32.5,30,15.3,46,Zona tranquila
+621,2025-04-13,1,Tlaquepaque Centro,Comercial,20.642,-103.312,31.3,28,17.9,59.1,Ruido por construcción
+622,2025-05-31,2,Zona Industrial,Industrial,20.645,-103.32,38.6,27,20.9,46.6,Poco tráfico
+623,2025-02-11,0,Chapalita,Residencial,20.658,-103.402,30,5,20.7,51.8,Mercado cercano
+624,2025-04-20,7,Providencia,Residencial,20.6612,-103.389,64,34,21.6,68.6,Tráfico intenso
+625,2025-03-28,2,Chapalita,Residencial,20.658,-103.402,30,2,16.7,67.7,Zona ruidosa
+626,2025-05-17,5,Chapalita,Residencial,20.658,-103.402,30,16,17.1,59.9,Música alta
+627,2025-02-15,7,Tlaquepaque Centro,Comercial,20.642,-103.312,94.8,80,22.9,73.9,Mucho tráfico
+628,2025-07-30,14,Chapalita,Residencial,20.658,-103.402,49.9,32,31.4,64.1,Mucho ruido
+629,2025-05-19,16,Zona Industrial,Industrial,20.645,-103.32,93.6,61,27.4,57.7,Zona tranquila
+630,2025-04-30,19,Zona Industrial,Industrial,20.645,-103.32,114.6,73,21.5,62.5,Zona tranquila
+631,2025-03-08,18,Americana,Mixta,20.6666,-103.381,65.7,68,22.6,49.4,Zona ruidosa
+632,2025-06-11,17,Providencia,Residencial,20.6612,-103.389,75.7,60,26.3,56.9,Poco tráfico
+633,2025-02-07,2,Centro,Comercial,20.6737,-103.344,42.7,38,18.6,42.3,Obras en la zona
+634,2025-04-09,22,Chapalita,Residencial,20.658,-103.402,60.6,33,25,54.9,Zona tranquila
+635,2025-05-31,15,Centro,Comercial,20.6737,-103.344,62.8,60,30.5,80.7,Obras en la zona
+636,2025-03-25,10,Americana,Mixta,20.6666,-103.381,70.8,55,23.4,57.9,Muchos camiones
+637,2025-05-12,4,Americana,Mixta,20.6666,-103.381,30,27,20.2,55.7,Sin incidencias
+638,2025-02-24,11,Centro,Comercial,20.6737,-103.344,81.1,60,28.6,79.2,Música alta
+639,2025-04-09,2,Americana,Mixta,20.6666,-103.381,40.8,29,17.7,52.1,Tráfico intenso
+640,2025-04-08,5,Chapalita,Residencial,20.658,-103.402,30,20,17.3,44.4,Sin incidencias
+641,2025-02-11,3,Americana,Mixta,20.6666,-103.381,38.2,24,18.9,64.8,Muchos camiones
+642,2025-04-15,22,Tlaquepaque Centro,Comercial,20.642,-103.312,74.2,66,25.2,63.8,Zona tranquila
+643,2025-05-04,20,Centro,Comercial,20.6737,-103.344,73.1,63,23.9,48.8,Ruido por construcción
+644,2025-06-13,9,Providencia,Residencial,20.6612,-103.389,76,39,26.3,49.9,Música alta
+645,2025-04-29,19,Providencia,Residencial,20.6612,-103.389,74.9,45,24.5,58,Mercado cercano
+646,2025-07-10,8,Chapalita,Residencial,20.658,-103.402,69.9,39,26.1,51.7,Ruido por construcción
+647,2025-04-30,14,Tlaquepaque Centro,Comercial,20.642,-103.312,81,76,34.8,72.9,Música alta
+648,2025-02-11,9,Tlaquepaque Centro,Comercial,20.642,-103.312,104.9,100,23,68.6,Obras en la zona
+649,2025-04-15,17,Tlaquepaque Centro,Comercial,20.642,-103.312,99.2,70,23.8,20,Muchos camiones
+650,2025-03-03,10,Centro,Comercial,20.6737,-103.344,84.4,76,23.1,56.7,Zona tranquila
+651,2025-04-15,17,Providencia,Residencial,20.6612,-103.389,80.1,43,22.9,57.1,Poco tráfico
+652,2025-07-23,1,Tlaquepaque Centro,Comercial,20.642,-103.312,42.7,40,16.2,59,Mercado cercano
+653,2025-03-31,20,Centro,Comercial,20.6737,-103.344,80.2,69,24,78.1,Poco tráfico
+654,2025-02-24,4,Providencia,Residencial,20.6612,-103.389,30,25,15.6,70.9,Obras en la zona
+655,2025-03-07,4,Americana,Mixta,20.6666,-103.381,35.4,21,14.4,74.6,Ruido por construcción
+656,2025-02-10,19,Americana,Mixta,20.6666,-103.381,86,90,24,59.2,Tráfico intenso
+657,2025-04-05,22,Chapalita,Residencial,20.658,-103.402,50.2,29,22.2,53.9,Mucho ruido
+658,2025-04-13,18,Zona Industrial,Industrial,20.645,-103.32,86.8,33,21.3,68.3,Mucho tráfico
+659,2025-07-22,14,Chapalita,Residencial,20.658,-103.402,52.2,35,29,65.7,Zona ruidosa
+660,2025-03-14,23,Americana,Mixta,20.6666,-103.381,78.6,82,22.7,64.1,Obras en la zona
+661,2025-07-10,1,Zona Industrial,Industrial,20.645,-103.32,42.1,41,17.8,60.7,Poco tráfico
+662,2025-07-17,9,Chapalita,Residencial,20.658,-103.402,73.9,55,21,35.7,Mercado cercano
+663,2025-06-15,20,Tlaquepaque Centro,Comercial,20.642,-103.312,60.6,50,25.9,52.5,Zona ruidosa
+664,2025-07-16,19,Tlaquepaque Centro,Comercial,20.642,-103.312,92.9,92,23.1,20.4,Tráfico intenso
+665,2025-02-17,5,Centro,Comercial,20.6737,-103.344,45.1,53,21,79.2,Obras en la zona
+666,2025-06-08,22,Americana,Mixta,20.6666,-103.381,64,56,27.8,55.3,Música alta
+667,2025-07-11,4,Centro,Comercial,20.6737,-103.344,40.1,31,18,70.8,Muchos camiones
+668,2025-05-20,17,Providencia,Residencial,20.6612,-103.389,71.9,56,24.2,62.7,Música alta
+669,2025-06-10,8,Americana,Mixta,20.6666,-103.381,96.6,89,28.2,50.9,Mucho tráfico
+670,2025-04-20,10,Tlaquepaque Centro,Comercial,20.642,-103.312,70.3,52,22.4,51.1,Sin incidencias
+672,2025-04-07,6,Zona Industrial,Industrial,20.645,-103.32,91,49,27.5,63.8,Muchos camiones
+673,2025-04-11,13,Americana,Mixta,20.6666,-103.381,77,72,26.9,68.6,Ruido por construcción
+674,2025-05-21,7,Tlaquepaque Centro,Comercial,20.642,-103.312,101.9,92,22.7,52.7,Obras en la zona
+675,2025-03-31,2,Centro,Comercial,20.6737,-103.344,41.7,40,16.6,61.2,Mercado cercano
+676,2025-07-25,16,Chapalita,Residencial,20.658,-103.402,52.4,34,28.7,36,Muchos camiones
+677,2025-02-09,12,Zona Industrial,Industrial,20.645,-103.32,71.2,35,28.8,45,Música alta
+678,2025-02-23,15,Americana,Mixta,20.6666,-103.381,61.4,61,32.9,51.2,Mercado cercano
+679,2025-02-25,0,Tlaquepaque Centro,Comercial,20.642,-103.312,32.3,48,18.9,68,Ruido por construcción
+680,2025-06-23,4,Chapalita,Residencial,20.658,-103.402,30,14,15.8,80.1,Sin incidencias
+681,2025-05-23,16,Americana,Mixta,20.6666,-103.381,77.4,63,30.4,78.5,Zona ruidosa
+682,2025-05-04,7,Zona Industrial,Industrial,20.645,-103.32,99.9,60,21.5,92.6,Música alta
+683,2025-02-21,18,Centro,Comercial,20.642,-103.312,103.3,83,24.6,72,Zona ruidosa
+684,2025-05-30,3,Zona Industrial,Industrial,20.645,-103.32,43.6,22,16.3,93.5,Obras en la zona
+685,2025-03-20,11,Chapalita,Residencial,20.658,-103.402,47.2,42,22.6,59.4,Tráfico intenso
+686,2025-05-16,10,Providencia,Residencial,20.6612,-103.389,58.2,44,19.6,67.6,Música alta
+687,2025-07-21,23,Providencia,Residencial,20.6612,-103.389,57.9,43,22.2,64.7,Zona tranquila
+688,2025-02-04,10,Providencia,Residencial,20.6612,-103.389,64.4,46,20.8,66.2,Mucho ruido
+689,2025-04-12,9,Zona Industrial,Industrial,20.645,-103.32,100.1,58,22.3,42.8,Sin incidencias
+690,2025-03-28,18,Zona Industrial,Industrial,20.645,-103.32,115,56,24.3,45.3,Muchos camiones
+691,2025-03-22,6,Providencia,Residencial,20.6612,-103.389,51.3,48,24.8,64.6,Obras en la zona
+692,2025-06-04,20,Tlaquepaque Centro,Comercial,20.642,-103.312,80.5,60,22.6,49.5,Zona ruidosa
+693,2025-06-19,16,Americana,Mixta,20.6666,-103.381,71.1,62,26.9,40.9,Mucho ruido
+694,2025-04-16,13,Tlaquepaque Centro,Comercial,20.642,-103.312,77.2,79,31.5,59.3,Muchos camiones
+695,2025-04-01,20,Providencia,Residencial,20.6612,-103.389,61.2,38,24.5,55.4,Mucho ruido
+696,2025-04-26,10,Tlaquepaque Centro,Comercial,20.642,-103.312,64.9,73,26,49.7,Tráfico intenso
+697,2025-04-15,1,Chapalita,Residencial,20.658,-103.402,30,0,17.8,50.6,Mucho tráfico
+698,2025-06-01,12,Zona Industrial,Industrial,20.645,-103.32,76.8,49,30.1,55.3,Ruido por construcción
+699,2025-05-25,22,Centro,Comercial,20.6737,-103.344,68.9,69,23.5,65.9,Muchos camiones
+700,2025-05-10,19,Chapalita,Residencial,20.658,-103.402,54.8,38,28.6,45.1,Zona ruidosa
+701,2025-05-09,3,Chapalita,Residencial,20.658,-103.402,30,17,17.5,69.6,Tráfico intenso
+702,2025-03-30,2,Centro,Comercial,20.6737,-103.344,30,38,15.9,86.2,Obras en la zona
+703,2025-07-18,9,Chapalita,Residencial,20.658,-103.402,72.8,46,25.3,47,Música alta
+704,2025-02-13,19,Zona Industrial,Industrial,20.645,-103.32,109.5,70,28,59.5,Muchos camiones
+705,2025-02-08,0,Centro,Comercial,20.6737,-103.344,30.1,16,14.6,41.9,Mucho tráfico
+707,2025-06-03,18,Providencia,Residencial,20.6612,-103.389,84.6,54,23.8,67.4,Ruido por construcción
+708,2025-02-06,6,Americana,Mixta,20.6666,-103.381,72.2,61,23.5,66.5,Mucho ruido
+709,2025-04-28,6,Centro,Comercial,20.6737,-103.344,79.7,58,23.6,55.5,Ruido por construcción
+710,2025-02-17,6,Centro,Comercial,20.6737,-103.344,84.3,74,16.8,72.4,Mucho ruido
+711,2025-07-10,4,Centro,Comercial,20.6737,-103.344,46.4,33,21.3,73.1,Ruido por construcción
+712,2025-04-18,9,Americana,Mixta,20.6666,-103.381,95.5,84,26.1,47.5,Zona tranquila
+713,2025-04-13,15,Centro,Comercial,20.6737,-103.344,67.9,58,30.5,62.5,Zona ruidosa
+714,2025-05-13,21,Tlaquepaque Centro,Comercial,20.642,-103.312,79.9,79,25,52.7,Mucho ruido
+715,2025-02-17,20,Americana,Mixta,20.6666,-103.381,72.2,54,20.3,67.9,Ruido por construcción
+716,2025-04-12,20,Zona Industrial,Industrial,20.645,-103.32,76,41,22.9,66.2,Muchos camiones
+717,2025-03-27,14,Chapalita,Residencial,20.658,-103.402,52.8,47,28.6,47.6,Mercado cercano
+718,2025-06-04,13,Americana,Mixta,20.6666,-103.381,70,50,29.7,59.7,Zona ruidosa
+719,2025-02-19,0,Americana,Mixta,20.6666,-103.381,30,22,18.5,65.9,Tráfico intenso
+720,2025-02-15,4,Chapalita,Residencial,20.658,-103.402,30,22,16.3,57.1,Mucho ruido
+721,2025-07-24,11,Tlaquepaque Centro,Comercial,20.642,-103.312,76.1,68,25.8,39.3,Poco tráfico
+722,2025-06-22,19,Chapalita,Residencial,20.658,-103.402,59.3,24,24.7,59.4,Obras en la zona
+723,2025-07-05,6,Zona Industrial,Industrial,20.645,-103.32,76.2,56,24.6,60.3,Mercado cercano
+724,2025-03-05,0,Zona Industrial,Industrial,20.645,-103.32,40.4,27,20.6,72,Poco tráfico
+725,2025-03-22,8,Providencia,Residencial,20.6612,-103.389,63.1,37,23.6,47.7,Mucho tráfico
+726,2025-02-18,14,Zona Industrial,Industrial,20.645,-103.32,87.5,57,29.8,72.6,Música alta
+727,2025-06-28,21,Centro,Comercial,20.6737,-103.344,63.3,54,21.6,62.6,Zona tranquila
+728,2025-05-02,22,Chapalita,Residencial,20.658,-103.402,56.8,24,22.9,76.6,Mercado cercano
+729,2025-03-14,22,Providencia,Residencial,20.6612,-103.389,61,42,23.7,67.7,Poco tráfico
+730,2025-04-15,22,Tlaquepaque Centro,Comercial,20.642,-103.312,80.3,71,24.7,59.6,Muchos camiones
+731,2025-03-25,8,Zona Industrial,Industrial,20.645,-103.32,108.9,72,21.7,37.4,Ruido por construcción
+732,2025-04-04,19,Chapalita,Residencial,20.658,-103.402,62.6,42,25.4,40.9,Mucho ruido
+733,2025-04-14,11,Tlaquepaque Centro,Comercial,20.642,-103.312,75.4,63,25.2,65.9,Zona ruidosa
+734,2025-07-09,9,Tlaquepaque Centro,Comercial,20.642,-103.312,107.9,99,21.9,66.4,Muchos camiones
+735,2025-04-24,2,Providencia,Residencial,20.6612,-103.389,30,20,17.5,64.2,Obras en la zona
+736,2025-03-27,8,Tlaquepaque Centro,Comercial,20.642,-103.312,104.6,75,25.2,63.7,Música alta
+737,2025-05-25,10,Tlaquepaque Centro,Comercial,20.642,-103.312,68.7,60,23.3,59.9,Música alta
+738,2025-02-18,6,Tlaquepaque Centro,Comercial,20.642,-103.312,77.2,49,24.8,44.8,Sin incidencias
+739,2025-05-19,16,Tlaquepaque Centro,Comercial,20.642,-103.312,75.7,71,30,54.6,Mucho ruido
+740,2025-03-16,3,Tlaquepaque Centro,Comercial,20.642,-103.312,38.8,30,15.5,57.3,Zona ruidosa
+741,2025-05-03,8,Centro,Comercial,20.6737,-103.344,90.5,71,22.6,66,Mucho tráfico
+742,2025-02-21,14,Centro,Comercial,20.6737,-103.344,79.5,63,31.8,71.6,Zona ruidosa
+743,2025-03-01,0,Providencia,Residencial,20.6612,-103.389,30,10,20.4,55.2,Mercado cercano
+744,2025-05-31,20,Tlaquepaque Centro,Comercial,20.642,-103.312,64.9,66,20,53.2,Tráfico intenso
+745,2025-07-14,10,Chapalita,Residencial,20.658,-103.402,61.8,36,28,38,Muchos camiones
+746,2025-04-25,0,Zona Industrial,Industrial,20.645,-103.32,48.3,41,18.4,67.2,Mucho ruido
+747,2025-02-23,22,Tlaquepaque Centro,Comercial,20.642,-103.312,69.8,56,24.2,48.5,Muchos camiones
+748,2025-03-14,4,Zona Industrial,Industrial,20.645,-103.32,40.6,30,19.9,50.9,Muchos camiones
+749,2025-04-23,16,Zona Industrial,Industrial,20.645,-103.32,83.3,63,30.8,42,Sin incidencias
+750,2025-04-03,7,Chapalita,Residencial,20.658,-103.402,79.1,52,25.4,66.6,Obras en la zona
+751,2025-04-05,16,Tlaquepaque Centro,Comercial,20.642,-103.312,66.9,59,31.3,41.1,Muchos camiones
+752,2025-04-18,3,Zona Industrial,Industrial,20.645,-103.32,43,35,17.7,34.8,Sin incidencias
+753,2025-05-18,22,Chapalita,Residencial,20.658,-103.402,45.7,29,24,55.8,Obras en la zona
+754,2025-07-29,18,Providencia,Residencial,20.6612,-103.389,73.3,54,26,37.2,Zona ruidosa
+755,2025-06-26,22,Tlaquepaque Centro,Comercial,20.642,-103.312,81.4,61,23.9,72.2,Música alta
+756,2025-02-10,15,Tlaquepaque Centro,Comercial,20.642,-103.312,80.9,67,29.6,87.5,Mercado cercano
+757,2025-05-10,11,Tlaquepaque Centro,Comercial,20.642,-103.312,75.8,60,24.2,53.7,Música alta
+758,2025-04-24,20,Zona Industrial,Industrial,20.645,-103.32,83.6,58,24.4,81.5,Poco tráfico
+759,2025-02-02,21,Tlaquepaque Centro,Comercial,20.642,-103.312,64,49,24.5,35.1,Mucho tráfico
+760,2025-06-04,21,Tlaquepaque Centro,Comercial,20.642,-103.312,80.9,74,22.7,56.9,Tráfico intenso
+761,2025-07-21,2,Americana,Mixta,20.6666,-103.381,43.2,34,18,42.7,Mucho tráfico
+762,2025-06-05,6,Americana,Mixta,20.6666,-103.381,68.6,64,23,68.9,Obras en la zona
+763,2025-05-23,9,Chapalita,Residencial,20.658,-103.402,69.2,34,20.6,49.4,Mucho ruido
+764,2025-02-05,2,Americana,Mixta,20.6666,-103.381,35.4,37,18.2,60.2,Zona tranquila
+765,2025-05-11,20,Tlaquepaque Centro,Comercial,20.642,-103.312,59.9,56,25.9,56.4,Muchos camiones
+766,2025-07-05,19,Americana,Mixta,20.6666,-103.381,72.7,66,22.6,79.6,Ruido por construcción
+767,2025-07-01,18,Centro,Comercial,20.6737,-103.344,95.5,85,25.7,74,Muchos camiones
+768,2025-06-11,3,Zona Industrial,Industrial,20.645,-103.32,37.9,34,16.8,73.3,Zona ruidosa
+769,2025-06-23,7,Chapalita,Residencial,20.658,-103.402,70,34,26.2,70.8,Obras en la zona
+770,2025-05-14,19,Americana,Mixta,20.6666,-103.381,91.1,77,23.4,70.3,Tráfico intenso
+771,2025-03-30,16,Zona Industrial,Industrial,20.645,-103.32,77.4,40,28.7,64.2,Zona tranquila
+772,2025-06-15,14,Americana,Mixta,20.6666,-103.381,65.4,43,32.1,61.4,Mucho tráfico
+773,2025-03-06,8,Centro,Comercial,20.6737,-103.344,96.9,92,21.9,74.2,Muchos camiones
+774,2025-03-03,12,Providencia,Residencial,20.6612,-103.389,56.2,24,27.8,73.3,Zona ruidosa
+775,2025-02-18,20,Americana,Mixta,20.6666,-103.381,67.4,57,23.6,69,Ruido por construcción
+776,2025-03-18,10,Americana,Mixta,20.6666,-103.381,72.9,61,22.1,71.5,Mucho ruido
+777,2025-02-09,13,Chapalita,Residencial,20.658,-103.402,49.4,25,31.7,65.1,Tráfico intenso
+778,2025-04-20,4,Americana,Mixta,20.6666,-103.381,32.4,27,17.5,41.5,Poco tráfico
+779,2025-06-25,10,Zona Industrial,Industrial,20.645,-103.32,87.3,47,19.7,54.4,Ruido por construcción
+780,2025-06-15,22,Americana,Mixta,20.6666,-103.381,59.9,51,24.7,51.9,Tráfico intenso
+781,2025-06-16,4,Americana,Mixta,20.6666,-103.381,34.7,17,17.3,68.2,Ruido por construcción
+782,2025-04-06,23,Tlaquepaque Centro,Comercial,20.642,-103.312,70.5,63,22.6,37,Zona tranquila
+783,2025-02-09,21,Chapalita,Residencial,20.658,-103.402,50.6,37,24.5,66.1,Obras en la zona
+784,2025-05-10,0,Centro,Comercial,20.6737,-103.344,35.5,28,19.9,66.9,Mercado cercano
+785,2025-02-25,21,Americana,Mixta,20.6666,-103.381,77.6,68,25.8,68.3,Música alta
+786,2025-06-10,1,Zona Industrial,Industrial,20.645,-103.32,44.6,28,17.7,40.9,Zona ruidosa
+787,2025-06-19,3,Americana,Mixta,20.6666,-103.381,41.3,24,19.4,73,Mercado cercano
+788,2025-03-12,5,Americana,Mixta,20.6666,-103.381,32.1,30,16.6,37.5,Ruido por construcción
+789,2025-06-28,4,Providencia,Residencial,20.6612,-103.389,30,13,15.6,45.6,Muchos camiones
+790,2025-06-19,18,Tlaquepaque Centro,Comercial,20.642,-103.312,88.6,70,26.9,52.1,Muchos camiones
+791,2025-02-18,11,Americana,Mixta,20.6666,-103.381,68.35,63,26.6,47.4,Mercado cercano
+792,2025-06-22,0,Tlaquepaque Centro,Comercial,20.642,-103.312,30,33,17.7,52,Muchos camiones
+793,2025-05-03,9,Americana,Mixta,20.6666,-103.381,78,61,26.5,66,Poco tráfico
+794,2025-04-08,3,Americana,Mixta,20.6666,-103.381,36.1,27,19,41.7,Tráfico intenso
+795,2025-05-21,9,Tlaquepaque Centro,Comercial,20.642,-103.312,102.5,79,27,57.9,Sin incidencias
+796,2025-05-04,14,Tlaquepaque Centro,Comercial,20.642,-103.312,62.8,47,29.9,56.3,Mucho ruido
+797,2025-06-07,3,Centro,Comercial,20.6737,-103.344,31,22,18.5,66,Mucho ruido
+798,2025-03-11,7,Centro,Comercial,20.6737,-103.344,105,93,24.3,46.3,Zona tranquila
+799,2025-07-01,21,Centro,Comercial,20.6737,-103.344,78.2,71,24.5,71.6,Zona ruidosa
+800,2025-04-20,13,Centro,Comercial,20.6737,-103.344,69.7,55,32.5,68.4,Obras en la zona
+801,2025-04-29,7,Americana,Mixta,20.6666,-103.381,95.9,77,20.4,48.8,Obras en la zona
+802,2025-07-18,9,Americana,Mixta,20.6666,-103.381,89.2,80,27.5,36,Tráfico intenso
+803,2025-07-11,5,Zona Industrial,Industrial,20.645,-103.32,43.4,31,15.5,47.8,Ruido por construcción
+804,2025-07-15,3,Zona Industrial,Industrial,20.645,-103.32,49.1,26,17.1,56,Ruido por construcción
+805,2025-03-01,10,Americana,Mixta,20.6666,-103.381,59.1,49,23.9,57.8,Poco tráfico
+806,2025-06-01,15,Zona Industrial,Comercial,20.642,-103.312,63,50,28.1,76.3,Obras en la zona
+807,2025-07-03,6,Americana,Mixta,20.6666,-103.381,76.8,66,26,50.4,Poco tráfico
+808,2025-03-14,7,Providencia,Residencial,20.6612,-103.389,115,46,24.6,68,Poco tráfico
+809,2025-07-04,4,Centro,Comercial,20.6737,-103.344,37.4,25,17.4,62.5,Zona ruidosa
+810,2025-03-16,13,Americana,Mixta,20.6666,-103.381,60.3,64,28.8,55.3,Zona ruidosa
+811,2025-02-08,13,Americana,Mixta,20.6666,-103.381,54.6,45,30.4,51.7,Mucho tráfico
+812,2025-06-24,19,Tlaquepaque Centro,Comercial,20.642,-103.312,96.8,86,24.4,38.2,Obras en la zona
+813,2025-03-11,6,Tlaquepaque Centro,Comercial,20.642,-103.312,80,76,26.4,42,Zona tranquila
+814,2025-05-07,8,Tlaquepaque Centro,Comercial,20.642,-103.312,99.4,92,28.9,64.7,Mercado cercano
+815,2025-04-06,19,Providencia,Residencial,20.6612,-103.389,62.7,39,26.4,81.3,Muchos camiones
+816,2025-05-05,20,Centro,Comercial,20.6737,-103.344,84,85,27.2,67.2,Mucho tráfico
+817,2025-03-30,11,Americana,Mixta,20.6666,-103.381,61.9,48,19.4,61.7,Música alta
+818,2025-07-21,10,Centro,Comercial,20.6737,-103.344,77,60,23.9,33.6,Mucho ruido
+819,2025-03-28,16,Zona Industrial,Industrial,20.645,-103.32,85.9,60,29.6,72.6,Zona tranquila
+820,2025-02-22,1,Chapalita,Residencial,20.658,-103.402,30,19,20.6,62.2,Sin incidencias
+821,2025-06-25,7,Americana,Mixta,20.6666,-103.381,98.7,87,26.3,54,Muchos camiones
+822,2025-05-10,22,Chapalita,Residencial,20.658,-103.402,44.2,20,24.5,69.9,Sin incidencias
+823,2025-06-22,4,Zona Industrial,Industrial,20.645,-103.32,33.1,20,14.3,73.9,Mucho ruido
+824,2025-05-30,20,Tlaquepaque Centro,Comercial,20.642,-103.312,71.3,89,25.5,58,Mucho ruido
+825,2025-04-05,19,Providencia,Residencial,20.6612,-103.389,59,41,23.4,63.6,Mucho tráfico
+826,2025-02-24,5,Centro,Comercial,20.6737,-103.344,38.5,44,19.5,66.2,Mucho ruido
+827,2025-02-08,22,Chapalita,Residencial,20.658,-103.402,50.5,26,21.2,68.2,Mucho ruido
+828,2025-06-28,2,Providencia,Residencial,20.6612,-103.389,30,13,16.7,69.8,Poco tráfico
+829,2025-05-31,19,Americana,Mixta,20.6666,-103.381,76.1,48,23.3,71,Música alta
+830,2025-04-15,13,Tlaquepaque Centro,Comercial,20.642,-103.312,77.3,59,29.8,57.3,Mucho tráfico
+831,2025-04-27,8,Chapalita,Residencial,20.658,-103.402,54.8,22,21.9,70,Ruido por construcción
+832,2025-07-28,19,Tlaquepaque Centro,Comercial,20.642,-103.312,98.6,76,19.8,54,Zona tranquila
+833,2025-02-17,21,Centro,Comercial,20.6737,-103.344,77.9,77,22.4,70.8,Obras en la zona
+834,2025-06-17,3,Chapalita,Residencial,20.658,-103.402,30.3,22,16.9,71,Mercado cercano
+835,2025-07-13,6,Providencia,Residencial,20.6612,-103.389,47.1,34,23,33.5,Música alta
+836,2025-06-24,18,Centro,Comercial,20.6737,-103.344,103.2,84,25.9,46,Mercado cercano
+837,2025-03-24,7,Tlaquepaque Centro,Comercial,20.642,-103.312,108.3,92,23.1,55.9,Zona tranquila
+838,2025-05-10,5,Americana,Mixta,20.6666,-103.381,30,18,17.3,60.6,Mercado cercano
+839,2025-03-07,1,Zona Industrial,Industrial,20.645,-103.32,39.8,26,16.3,67,Tráfico intenso
+840,2025-02-26,17,Tlaquepaque Centro,Comercial,20.642,-103.312,101.2,83,25.2,47.3,Tráfico intenso
+841,2025-02-13,21,Tlaquepaque Centro,Comercial,20.642,-103.312,87,82,22,70.1,Mercado cercano
+842,2025-03-08,6,Providencia,Residencial,20.6612,-103.389,49.5,41,25,58.9,Música alta
+843,2025-07-25,2,Tlaquepaque Centro,Comercial,20.642,-103.312,34.4,27,20.1,46.3,Ruido por construcción
+844,2025-07-03,2,Americana,Mixta,20.6666,-103.381,38.8,36,19.9,60.8,Música alta
+845,2025-02-28,12,Chapalita,Residencial,20.658,-103.402,58.5,26,28.8,41.2,Poco tráfico
+846,2025-07-07,7,Providencia,Residencial,20.6612,-103.389,75.2,50,26.2,37.4,Ruido por construcción
+847,2025-03-16,8,Tlaquepaque Centro,Comercial,20.642,-103.312,87.4,80,20,57.2,Muchos camiones
+848,2025-03-26,11,Chapalita,Residencial,20.658,-103.402,49.9,13,24.5,72.8,Sin incidencias
+849,2025-07-03,18,Providencia,Residencial,20.6612,-103.389,78.1,52,27.9,62.2,Sin incidencias
+850,2025-03-01,1,Centro,Comercial,20.6737,-103.344,34,26,19.3,69.9,Poco tráfico
+851,2025-06-28,11,Chapalita,Residencial,20.658,-103.402,48.5,22,24.3,82.3,Poco tráfico
+852,2025-05-04,6,Americana,Mixta,20.6666,-103.381,59.8,38,23,66.6,Mucho tráfico
+853,2025-02-13,20,Centro,Residencial,20.658,-103.402,54.9,33,23.9,54,Mucho ruido
+854,2025-07-13,17,Centro,Comercial,20.6737,-103.344,88.4,69,28.5,66.2,Poco tráfico
+855,2025-05-27,9,Chapalita,Residencial,20.658,-103.402,68.7,55,26.1,62.4,Zona ruidosa
+856,2025-02-05,18,Chapalita,Residencial,20.658,-103.402,70.2,42,25.8,84.1,Muchos camiones
+857,2025-03-28,17,Providencia,Residencial,20.6612,-103.389,67,42,26.9,50.3,Poco tráfico
+858,2025-04-18,15,Centro,Comercial,20.6737,-103.344,83.1,75,26.9,64.4,Ruido por construcción
+859,2025-05-03,14,Americana,Mixta,20.6666,-103.381,64.9,53,29.5,56.4,Mercado cercano
+860,2025-07-22,14,Americana,Mixta,20.6666,-103.381,73.5,71,27.7,41.1,Zona tranquila
+861,2025-04-13,2,Zona Industrial,Industrial,20.645,-103.32,41.1,33,17.4,63.6,Sin incidencias
+862,2025-06-06,5,Chapalita,Residencial,20.658,-103.402,30,8,17.2,59.4,Sin incidencias
+863,2025-07-16,15,Providencia,Residencial,20.6612,-103.389,54.7,43,32,48.9,Poco tráfico
+864,2025-07-02,22,Centro,Comercial,20.6737,-103.344,80.4,65,24.1,66.9,Ruido por construcción
+865,2025-04-16,21,Centro,Comercial,20.6737,-103.344,83.5,73,21.7,59.2,Sin incidencias
+866,2025-04-28,11,Zona Industrial,Industrial,20.645,-103.32,92.4,63,21.6,41.5,Mucho ruido
+867,2025-05-05,14,Centro,Comercial,20.6737,-103.344,80.7,82,27.8,53.7,Zona ruidosa
+868,2025-03-20,19,Chapalita,Residencial,20.658,-103.402,64.2,32,22.8,71.4,Mercado cercano
+869,2025-02-15,0,Americana,Mixta,20.6666,-103.381,30,22,20.1,61.1,Mercado cercano
+870,2025-04-06,11,Providencia,Residencial,20.6612,-103.389,43.6,19,23.3,49.6,Poco tráfico
+871,2025-02-10,19,Chapalita,Residencial,20.658,-103.402,67.2,46,24.3,52.2,Zona tranquila
+872,2025-04-27,9,Chapalita,Residencial,20.658,-103.402,62.3,41,22,68.8,Mucho ruido
+873,2025-03-14,5,Centro,Comercial,20.6737,-103.344,50.1,41,18.6,50.9,Ruido por construcción
+874,2025-05-11,18,Americana,Mixta,20.6666,-103.381,74.2,68,21.1,63,Poco tráfico
+875,2025-07-19,7,Chapalita,Residencial,20.658,-103.402,54.2,38,24,52,Poco tráfico
+876,2025-02-25,23,Americana,Mixta,20.6666,-103.381,81,59,26.6,84.7,Muchos camiones
+877,2025-05-05,21,Tlaquepaque Centro,Comercial,20.642,-103.312,82,62,22.2,66.6,Música alta
+878,2025-07-30,19,Zona Industrial,Industrial,20.645,-103.32,110.2,66,24.4,63.7,Poco tráfico
+879,2025-03-09,11,Providencia,Residencial,20.6612,-103.389,56,53,20,66.9,Mercado cercano
+880,2025-06-08,11,Providencia,Residencial,20.6612,-103.389,53.8,36,25.1,53.1,Zona tranquila
+881,2025-02-27,1,Americana,Mixta,20.6666,-103.381,36.6,28,19.4,69,Poco tráfico
+882,2025-03-07,5,Chapalita,Residencial,20.658,-103.402,32,18,20,57.9,Mercado cercano
+883,2025-07-12,9,Americana,Mixta,20.6666,-103.381,79.3,65,25.1,58.3,Tráfico intenso
+884,2025-04-28,9,Americana,Mixta,20.6666,-103.381,97.2,91,28.2,65.2,Tráfico intenso
+885,2025-04-17,6,Centro,Comercial,20.6737,-103.344,86.8,79,24.5,74.3,Mucho ruido
+886,2025-07-27,10,Zona Industrial,Industrial,20.645,-103.32,67.4,31,23.9,62.1,Música alta
+887,2025-03-07,16,Providencia,Residencial,20.6612,-103.389,52.5,35,29.1,82.8,Mucho tráfico
+888,2025-07-07,7,Zona Industrial,Industrial,20.645,-103.32,115,60,23.9,55.5,Zona ruidosa
+889,2025-04-12,20,Tlaquepaque Centro,Comercial,20.642,-103.312,70.4,58,25,51.6,Mercado cercano
+890,2025-07-23,4,Chapalita,Residencial,20.658,-103.402,30,16,19.2,53.9,Muchos camiones
+891,2025-05-21,14,Providencia,Residencial,20.6612,-103.389,59.7,47,29.5,61.6,Ruido por construcción
+892,2025-03-06,16,Centro,Comercial,20.6737,-103.344,82.4,63,25.4,77.5,Poco tráfico
+893,2025-06-05,14,Tlaquepaque Centro,Comercial,20.642,-103.312,70.3,58,30.1,67.2,Sin incidencias
+894,2025-03-19,12,Americana,Mixta,20.6666,-103.381,70.5,60,31.3,35.1,Mercado cercano
+895,2025-06-09,16,Providencia,Residencial,20.6612,-103.389,54.6,27,26.8,64.6,Mercado cercano
+896,2025-02-10,16,Chapalita,Residencial,20.658,-103.402,63.6,39,30.4,81.1,Mercado cercano
+897,2025-07-19,20,Americana,Mixta,20.6666,-103.381,56.7,49,21.7,66.4,Zona tranquila
+898,2025-07-19,3,Americana,Mixta,20.6666,-103.381,30,15,17.7,66.5,Obras en la zona
+899,2025-03-11,21,Tlaquepaque Centro,Comercial,20.642,-103.312,73.5,65,22.6,59.2,Obras en la zona
+900,2025-05-19,1,Providencia,Residencial,20.6612,-103.389,30,25,18.1,42.5,Zona tranquila
+901,2025-06-14,11,Tlaquepaque Centro,Comercial,20.642,-103.312,68,68,25.1,57.7,Ruido por construcción
+902,2025-07-10,8,Americana,Mixta,20.6666,-103.381,98.9,91,22.8,63.2,Mucho tráfico
+903,2025-05-14,2,Providencia,Residencial,20.6612,-103.389,30,23,20,73.9,Tráfico intenso
+904,2025-04-21,18,Americana,Mixta,20.6666,-103.381,99.6,81,25.7,67.3,Mucho ruido
+905,2025-05-01,1,Tlaquepaque Centro,Comercial,20.642,-103.312,32.5,39,20.7,74.6,Obras en la zona
+906,2025-06-24,23,Zona Industrial,Industrial,20.645,-103.32,91.2,71,22.2,42.2,Música alta
+907,2025-02-02,3,Providencia,Residencial,20.6612,-103.389,30,8,16.3,65.9,Tráfico intenso
+908,2025-07-12,13,Chapalita,Residencial,20.658,-103.402,52.3,31,32.4,58.7,Zona ruidosa
+909,2025-04-19,7,Americana,Mixta,20.6666,-103.381,80.3,66,23.6,65.1,Obras en la zona
+910,2025-07-08,16,Tlaquepaque Centro,Comercial,20.642,-103.312,75.3,78,29.6,57.6,Mucho tráfico
+911,2025-07-06,20,Zona Industrial,Industrial,20.645,-103.32,78.2,61,22.7,62.8,Mucho ruido
+912,2025-03-02,21,Zona Industrial,Industrial,20.645,-103.32,73,32,23.5,66.4,Ruido por construcción
+913,2025-07-17,1,Providencia,Residencial,20.6612,-103.389,30,7,17.5,42.6,Mucho tráfico
+914,2025-04-11,20,Zona Industrial,Industrial,20.645,-103.32,82.5,51,23,75,Obras en la zona
+915,2025-07-24,22,Zona Industrial,Industrial,20.645,-103.32,91.1,55,23.9,70.4,Zona ruidosa
+916,2025-05-26,23,Tlaquepaque Centro,Comercial,20.642,-103.312,84.5,62,25.1,73.1,Ruido por construcción
+917,2025-03-20,4,Americana,Mixta,20.6666,-103.381,34.8,28,19.6,73.3,Mucho ruido
+918,2025-06-18,2,Zona Industrial,Industrial,20.645,-103.32,48.1,22,20.7,51.1,Zona tranquila
+919,2025-02-28,4,Zona Industrial,Industrial,20.645,-103.32,51.9,44,16,68.5,Mercado cercano
+920,2025-04-08,3,Centro,Comercial,20.6737,-103.344,43.3,29,18.3,56.7,Sin incidencias
+921,2025-06-09,12,Centro,Comercial,20.6737,-103.344,77.6,70,32.7,90.7,Zona ruidosa
+922,2025-03-16,21,Providencia,Residencial,20.6612,-103.389,40.7,32,22.6,71.9,Mercado cercano
+923,2025-07-27,15,Tlaquepaque Centro,Comercial,20.642,-103.312,71.5,68,31.7,63.5,Zona tranquila
+924,2025-07-11,12,Americana,Mixta,20.6666,-103.381,70.7,58,26.8,43.2,Mucho ruido
+925,2025-07-14,3,Centro,Comercial,20.6737,-103.344,38.8,26,18.8,48,Música alta
+926,2025-05-26,14,Centro,Comercial,20.6737,-103.344,81.2,81,28.7,52,Ruido por construcción
+927,2025-06-21,15,Chapalita,Residencial,20.658,-103.402,47.2,38,28.3,84.8,Muchos camiones
+928,2025-05-25,9,Chapalita,Residencial,20.658,-103.402,52.8,21,25.5,60.9,Zona tranquila
+929,2025-04-20,23,Chapalita,Residencial,20.658,-103.402,45.8,25,23.3,88.2,Música alta
+930,2025-04-18,22,Centro,Comercial,20.6737,-103.344,79.2,71,22,66.3,Obras en la zona
+931,2025-07-24,15,Americana,Mixta,20.6666,-103.381,74.5,62,29.5,73,Muchos camiones
+932,2025-05-05,22,Tlaquepaque Centro,Comercial,20.642,-103.312,70.1,65,22.3,59,Música alta
+933,2025-05-30,21,Americana,Mixta,20.6666,-103.381,66.5,55,20,47.4,Muchos camiones
+934,2025-06-26,4,Americana,Mixta,20.6666,-103.381,37.4,40,20,33.6,Poco tráfico
+935,2025-05-19,20,Zona Industrial,Industrial,20.645,-103.32,87.7,52,23.8,87.5,Poco tráfico
+936,2025-07-28,18,Zona Industrial,Industrial,20.645,-103.32,109.9,69,21.4,45.1,Mercado cercano
+937,2025-05-14,11,Providencia,Residencial,20.6612,-103.389,64.6,34,22.8,65.4,Sin incidencias
+938,2025-02-26,0,Tlaquepaque Centro,Comercial,20.642,-103.312,38.8,41,19.7,64.1,Obras en la zona
+939,2025-07-14,21,Tlaquepaque Centro,Comercial,20.642,-103.312,76.4,63,23.5,59.6,Sin incidencias
+940,2025-03-08,18,Americana,Mixta,20.6666,-103.381,73.2,68,28.2,60.2,Muchos camiones
+941,2025-03-28,6,Tlaquepaque Centro,Comercial,20.642,-103.312,76.8,76,23.7,36.3,Sin incidencias
+942,2025-03-29,7,Tlaquepaque Centro,Comercial,20.642,-103.312,90.5,72,25.6,37.6,Mercado cercano
+943,2025-02-03,15,Chapalita,Residencial,20.658,-103.402,59.4,18,32.6,69.4,Mercado cercano
+944,2025-02-11,11,Chapalita,Residencial,20.658,-103.402,60.3,32,17.5,42.6,Poco tráfico
+945,2025-03-23,9,Chapalita,Residencial,20.658,-103.402,55.5,25,25.9,53.5,Mucho ruido
+946,2025-07-08,7,Providencia,Residencial,20.6612,-103.389,83.7,65,21.9,46,Mucho ruido
+947,2025-02-16,19,Centro,Comercial,20.6737,-103.344,81,82,22.3,77,Obras en la zona
+948,2025-05-22,17,Zona Industrial,Industrial,20.645,-103.32,107.2,67,24.4,72.7,Mucho tráfico
+949,2025-02-11,19,Chapalita,Residencial,20.658,-103.402,68.4,39,26.1,38.3,Mercado cercano
+950,2025-05-07,5,Tlaquepaque Centro,Comercial,20.642,-103.312,47.4,39,14.5,66.2,Obras en la zona
+951,2025-05-12,6,Providencia,Residencial,20.6612,-103.389,61.4,51,26.3,53.8,Tráfico intenso
+952,2025-06-30,1,Americana,Mixta,20.6666,-103.381,40.5,32,15.3,44.9,Zona ruidosa
+953,2025-06-25,20,Centro,Comercial,20.6737,-103.344,81.1,78,21.7,45.8,Muchos camiones
+954,2025-06-13,16,Providencia,Residencial,20.6612,-103.389,59.9,41,32.2,60.6,Mucho ruido
+955,2025-05-26,11,Zona Industrial,Industrial,20.645,-103.32,91.6,66,22.9,59.8,Muchos camiones
+956,2025-04-20,12,Tlaquepaque Centro,Comercial,20.642,-103.312,75.1,76,31.6,42.6,Obras en la zona
+957,2025-05-07,17,Chapalita,Residencial,20.658,-103.402,63.2,32,26,71.4,Zona tranquila
+958,2025-04-03,11,Centro,Comercial,20.6737,-103.344,78.4,62,26.2,64.2,Tráfico intenso
+959,2025-07-13,6,Zona Industrial,Industrial,20.645,-103.32,74.4,29,23.3,58.8,Música alta
+960,2025-05-02,9,Centro,Comercial,20.6737,-103.344,105.4,96,24.7,64,Zona tranquila
+961,2025-06-30,6,Zona Industrial,Industrial,20.645,-103.32,83,49,24,53,Mucho ruido
+962,2025-04-30,9,Zona Industrial,Industrial,20.645,-103.32,115,80,25.6,53.4,Mucho tráfico
+963,2025-06-23,7,Providencia,Residencial,20.6612,-103.389,78.6,36,23.7,43.5,Mucho tráfico
+964,2025-06-03,11,Tlaquepaque Centro,Comercial,20.642,-103.312,77.7,70,27.9,82.4,Zona tranquila
+965,2025-03-07,13,Chapalita,Residencial,20.658,-103.402,54.6,35,33.3,82.1,Mucho ruido
+966,2025-03-02,20,Chapalita,Residencial,20.658,-103.402,39.1,16,26.3,51.1,Música alta
+967,2025-07-12,18,Tlaquepaque Centro,Comercial,20.642,-103.312,79.2,55,26.5,57.6,Mucho ruido
+968,2025-04-10,6,Zona Industrial,Industrial,20.645,-103.32,85.7,57,28.6,69.3,Zona tranquila
+969,2025-06-10,23,Centro,Comercial,20.6737,-103.344,80.4,60,24.7,48.7,Mercado cercano
+970,2025-02-23,8,Chapalita,Residencial,20.658,-103.402,56.8,27,22.9,60.9,Música alta
+971,2025-02-21,7,Tlaquepaque Centro,Comercial,20.642,-103.312,99,84,21.3,46.1,Mercado cercano
+972,2025-02-19,1,Zona Industrial,Industrial,20.645,-103.32,48.4,32,19.3,50.7,Zona tranquila
+973,2025-06-17,8,Americana,Comercial,20.6737,-103.344,103.4,82,23.7,57,Mucho ruido
+974,2025-07-23,9,Americana,Mixta,20.6666,-103.381,101.2,73,24.3,41.6,Obras en la zona
+975,2025-05-15,15,Zona Industrial,Industrial,20.645,-103.32,68.35,43,30.7,67.2,Ruido por construcción
+976,2025-03-04,6,Providencia,Residencial,20.6612,-103.389,63.7,37,22.2,51.3,Zona tranquila
+977,2025-03-20,22,Zona Industrial,Industrial,20.645,-103.32,88.6,48,25,59,Ruido por construcción
+978,2025-02-15,3,Tlaquepaque Centro,Comercial,20.642,-103.312,30,41,17.6,34.7,Música alta
+979,2025-07-04,1,Zona Industrial,Industrial,20.645,-103.32,45.3,29,20,60,Música alta
+980,2025-06-28,14,Chapalita,Residencial,20.658,-103.402,48.4,42,30.5,79.9,Tráfico intenso
+981,2025-03-07,0,Zona Industrial,Industrial,20.645,-103.32,43.1,25,17.4,50.7,Sin incidencias
+982,2025-03-27,6,Americana,Mixta,20.6666,-103.381,73.3,68,24.1,53.3,Mucho tráfico
+983,2025-07-09,16,Providencia,Residencial,20.6612,-103.389,64.7,39,32.4,68.7,Mucho ruido
+984,2025-06-05,10,Centro,Comercial,20.6737,-103.344,81.7,68,23,64.1,Zona tranquila
+985,2025-07-02,3,Zona Industrial,Industrial,20.645,-103.32,41.4,39,19.2,61,Zona ruidosa
+986,2025-02-17,3,Centro,Comercial,20.6737,-103.344,38.4,47,16.7,83.3,Mucho tráfico
+987,2025-04-12,5,Centro,Comercial,20.6737,-103.344,30,26,22.8,67.4,Muchos camiones
+988,2025-04-18,19,Providencia,Residencial,20.6612,-103.389,76,40,26.3,46.2,Muchos camiones
+989,2025-07-13,16,Zona Industrial,Industrial,20.645,-103.32,74.2,48,29.5,58.6,Mercado cercano
+990,2025-02-13,14,Centro,Comercial,20.6737,-103.344,83.7,86,32.1,63.6,Zona ruidosa
+991,2025-04-09,8,Providencia,Residencial,20.6612,-103.389,79.7,61,22.3,34.4,Zona tranquila
+992,2025-06-07,13,Chapalita,Residencial,20.658,-103.402,41.1,10,31.3,42.3,Música alta
+993,2025-02-25,7,Americana,Mixta,20.6666,-103.381,91.8,64,19.9,65.3,Muchos camiones
+994,2025-03-01,13,Providencia,Residencial,20.6612,-103.389,54.8,35,27.9,83.2,Sin incidencias
+995,2025-07-31,16,Tlaquepaque Centro,Comercial,20.642,-103.312,77.3,76,30.9,50.2,Muchos camiones
+996,2025-02-16,16,Zona Industrial,Industrial,20.645,-103.32,76.3,45,33.9,65.1,Mucho tráfico
+997,2025-07-19,6,Chapalita,Residencial,20.658,-103.402,45.5,23,26.1,51,Tráfico intenso
+998,2025-02-09,4,Centro,Comercial,20.642,-103.312,30,42,18.6,76.1,Zona ruidosa
+999,2025-03-09,16,Chapalita,Residencial,20.658,-103.402,42.2,43,31.7,47.4,Música alta
+1000,2025-03-26,23,Americana,Mixta,20.6666,-103.381,68.5,63,22.2,47.1,Muchos camiones
+1001,2025-02-24,20,Zona Industrial,Industrial,20.645,-103.32,92.7,53,25.2,55.6,Mercado cercano
+1002,2025-02-14,15,Centro,Comercial,20.6737,-103.344,77.6,74,23.6,65.2,Sin incidencias
+1003,2025-07-08,20,Zona Industrial,Industrial,20.645,-103.32,86.3,52,25,62.9,Zona tranquila
+1004,2025-05-20,4,Providencia,Residencial,20.6612,-103.389,32.3,13,18.3,78.6,Muchos camiones
+1005,2025-05-27,10,Zona Industrial,Industrial,20.645,-103.32,88.9,42,23.9,65.9,Poco tráfico
+1006,2025-05-22,16,Centro,Comercial,20.6737,-103.344,77.3,68,29.1,61.8,Mucho tráfico
+1007,2025-03-12,22,Tlaquepaque Centro,Comercial,20.642,-103.312,68.9,73,23.5,66.6,Poco tráfico
+1008,2025-05-30,10,Centro,Comercial,20.6737,-103.344,85.7,87,25,58.4,Tráfico intenso
+1009,2025-07-17,22,Providencia,Residencial,20.6612,-103.389,48.8,39,20.3,49.2,Obras en la zona
+1010,2025-04-13,3,Americana,Residencial,20.6612,-103.389,30,23,17.4,66.7,Zona ruidosa
+1011,2025-02-14,21,Americana,Mixta,20.6666,-103.381,73.5,68,25.5,60.6,Muchos camiones
+1012,2025-07-26,17,Tlaquepaque Centro,Comercial,20.642,-103.312,84.2,76,21.5,72.4,Sin incidencias
+1013,2025-04-06,16,Americana,Mixta,20.6666,-103.381,61.8,53,28.4,57.6,Obras en la zona
+1014,2025-07-01,14,Americana,Mixta,20.6666,-103.381,75.6,62,30.5,45,Poco tráfico
+1015,2025-02-26,1,Chapalita,Residencial,20.658,-103.402,36.7,19,16.3,57.9,Zona tranquila
+1016,2025-03-18,0,Providencia,Residencial,20.6612,-103.389,31.1,18,17.1,55.7,Tráfico intenso
+1017,2025-02-23,8,Chapalita,Residencial,20.658,-103.402,65.6,27,23.8,79.4,Tráfico intenso
+1018,2025-06-29,2,Centro,Comercial,20.6737,-103.344,37.6,25,18.3,50.3,Ruido por construcción
+1019,2025-04-22,3,Chapalita,Residencial,20.658,-103.402,30,25,15.7,46.3,Zona ruidosa
+1020,2025-03-11,21,Tlaquepaque Centro,Comercial,20.642,-103.312,74.5,64,24,77.5,Obras en la zona
+1021,2025-04-12,21,Chapalita,Residencial,20.658,-103.402,46,25,24,68.7,Muchos camiones
+1022,2025-03-17,8,Americana,Mixta,20.6666,-103.381,100.9,93,23.6,69.4,Zona tranquila
+1023,2025-03-19,10,Providencia,Residencial,20.6612,-103.389,58.9,44,26.9,73,Tráfico intenso
+1024,2025-04-17,18,Providencia,Residencial,20.6612,-103.389,74,45,23.7,55,Música alta
+1025,2025-05-07,8,Tlaquepaque Centro,Comercial,20.642,-103.312,100.6,99,23.8,47.7,Muchos camiones
+1026,2025-07-24,9,Chapalita,Residencial,20.658,-103.402,68.6,44,25.8,60.2,Mercado cercano
+1027,2025-04-01,15,Providencia,Residencial,20.6612,-103.389,56.9,42,30.9,45,Tráfico intenso
+1028,2025-04-24,11,Americana,Mixta,20.6666,-103.381,70.6,69,27.9,50.9,Zona tranquila
+1029,2025-04-30,12,Americana,Mixta,20.6666,-103.381,73.8,62,29.7,47,Zona tranquila
+1030,2025-06-25,23,Providencia,Residencial,20.6612,-103.389,51.9,40,21.4,74.2,Mucho ruido
+1031,2025-06-17,21,Tlaquepaque Centro,Comercial,20.642,-103.312,86.7,70,21.1,83.4,Zona ruidosa
+1032,2025-05-20,12,Zona Industrial,Industrial,20.645,-103.32,88.5,52,30.7,69.8,Poco tráfico
+1033,2025-06-06,14,Centro,Comercial,20.6737,-103.344,82.7,69,33.4,38.6,Zona ruidosa
+1034,2025-05-21,22,Zona Industrial,Industrial,20.645,-103.32,91.3,63,21.8,49.8,Muchos camiones
+1035,2025-07-01,3,Centro,Comercial,20.6737,-103.344,42.9,42,17.5,74.1,Tráfico intenso
+1036,2025-07-09,7,Providencia,Residencial,20.6612,-103.389,79.3,53,23.6,46.6,Ruido por construcción
+1037,2025-07-16,9,Providencia,Residencial,20.6612,-103.389,84,60,26.4,49.5,Mercado cercano
+1038,2025-03-05,4,Americana,Mixta,20.6666,-103.381,32.1,18,15.9,63.6,Ruido por construcción
+1039,2025-04-21,17,Centro,Comercial,20.6737,-103.344,107.1,77,27.9,80.2,Ruido por construcción
+1040,2025-04-01,13,Providencia,Residencial,20.6612,-103.389,60.6,39,27.9,40.3,Obras en la zona
+1041,2025-04-13,5,Providencia,Residencial,20.6612,-103.389,30,15,16.8,77,Ruido por construcción
+1042,2025-06-13,21,Americana,Mixta,20.6666,-103.381,78.8,70,23.2,59.5,Mucho tráfico
+1043,2025-04-04,18,Centro,Comercial,20.6737,-103.344,101.2,87,25.9,61.8,Música alta
+1044,2025-07-19,23,Centro,Comercial,20.6737,-103.344,62.8,49,23.5,76.2,Zona ruidosa
+1045,2025-05-03,18,Tlaquepaque Centro,Comercial,20.642,-103.312,73.1,74,20.4,68.6,Ruido por construcción
+1046,2025-03-09,17,Chapalita,Residencial,20.658,-103.402,56.2,27,26.4,52.3,Poco tráfico
+1047,2025-07-24,5,Americana,Mixta,20.6666,-103.381,41,38,18,52.5,Tráfico intenso
+1048,2025-04-24,7,Tlaquepaque Centro,Comercial,20.642,-103.312,95.7,77,25.2,83.2,Sin incidencias
+1049,2025-06-24,6,Americana,Mixta,20.6666,-103.381,60.2,46,26.8,44.5,Ruido por construcción
+1050,2025-02-06,11,Chapalita,Residencial,20.658,-103.402,57.6,30,23.4,61.4,Zona ruidosa
+1051,2025-07-30,3,Americana,Mixta,20.6666,-103.381,33.7,25,15.5,69.5,Mucho tráfico
+1052,2025-04-30,11,Tlaquepaque Centro,Comercial,20.642,-103.312,73.7,84,20.2,54.7,Música alta
+1053,2025-05-06,16,Tlaquepaque Centro,Comercial,20.642,-103.312,77.3,61,29.4,56.8,Sin incidencias
+1054,2025-03-18,9,Tlaquepaque Centro,Comercial,20.642,-103.312,98.9,87,21.7,51.5,Obras en la zona
+1055,2025-04-30,7,Tlaquepaque Centro,Comercial,20.642,-103.312,99.6,91,24.7,70.7,Música alta
+1056,2025-02-08,9,Providencia,Residencial,20.6612,-103.389,60.2,50,21.8,60.9,Música alta
+1057,2025-07-21,14,Americana,Mixta,20.6666,-103.381,77.3,58,27.2,57.1,Mucho ruido
+1058,2025-05-30,9,Chapalita,Residencial,20.658,-103.402,69.6,53,26.3,52.4,Tráfico intenso
+1059,2025-02-24,10,Providencia,Residencial,20.6612,-103.389,60.8,32,23.8,75.4,Mucho ruido
+1060,2025-02-05,17,Chapalita,Residencial,20.658,-103.402,73.7,47,27.1,65.6,Mucho tráfico
+1061,2025-06-22,19,Centro,Comercial,20.6737,-103.344,81,80,23.8,30.7,Mucho ruido
+1062,2025-05-12,11,Tlaquepaque Centro,Comercial,20.642,-103.312,76.1,59,22.4,75.1,Obras en la zona
+1063,2025-05-10,21,Zona Industrial,Industrial,20.645,-103.32,79.3,46,24.1,57.4,Obras en la zona
+1064,2025-02-04,1,Chapalita,Residencial,20.658,-103.402,30,28,19.1,57,Mercado cercano
+1065,2025-03-07,0,Providencia,Residencial,20.6612,-103.389,34,15,18.4,44.5,Zona tranquila
+1066,2025-02-10,20,Americana,Mixta,20.6666,-103.381,74.1,57,24.6,64.7,Tráfico intenso
+1067,2025-02-12,18,Zona Industrial,Industrial,20.645,-103.32,107.2,77,22,55.9,Zona tranquila
+1068,2025-06-08,14,Centro,Comercial,20.6737,-103.344,58.6,58,28.1,58.4,Ruido por construcción
+1069,2025-07-26,12,Centro,Comercial,20.6737,-103.344,62.3,60,29.8,93.3,Zona tranquila
+1070,2025-02-03,5,Tlaquepaque Centro,Comercial,20.642,-103.312,39.9,41,16.3,63.8,Sin incidencias
+1071,2025-02-26,2,Tlaquepaque Centro,Comercial,20.642,-103.312,39,35,18.9,74.7,Zona tranquila
+1072,2025-03-17,10,Chapalita,Residencial,20.658,-103.402,43.9,28,23.8,48.2,Sin incidencias
+1073,2025-02-08,3,Chapalita,Residencial,20.658,-103.402,31.2,26,17.7,79,Mucho ruido
+1074,2025-06-25,9,Zona Industrial,Industrial,20.645,-103.32,115,68,23.8,72.8,Poco tráfico
+1075,2025-06-13,14,Americana,Mixta,20.6666,-103.381,67.6,68,28.4,43.9,Mercado cercano
+1076,2025-04-24,2,Americana,Mixta,20.6666,-103.381,32.3,36,20.1,84.1,Mucho ruido
+1077,2025-05-13,3,Zona Industrial,Industrial,20.645,-103.32,47.2,24,18.1,61.3,Zona tranquila
+1078,2025-03-04,5,Centro,Industrial,20.645,-103.32,44.9,48,17.4,89,Zona tranquila
+1079,2025-02-02,14,Zona Industrial,Industrial,20.645,-103.32,80.8,45,32,45.6,Mercado cercano
+1080,2025-06-25,21,Centro,Comercial,20.6737,-103.344,75,58,24.4,51.9,Sin incidencias
+1081,2025-05-30,6,Tlaquepaque Centro,Comercial,20.642,-103.312,79.9,67,26.9,58.8,Ruido por construcción
+1082,2025-03-21,1,Zona Industrial,Industrial,20.645,-103.32,48.9,30,14,65.9,Música alta
+1083,2025-03-23,23,Tlaquepaque Centro,Comercial,20.642,-103.312,64.2,66,21.7,58.7,Poco tráfico
+1084,2025-06-26,19,Americana,Mixta,20.6666,-103.381,92.6,83,25,54.4,Mucho ruido
+1085,2025-07-04,16,Americana,Residencial,20.658,-103.402,50.5,28,28.9,64.2,Muchos camiones
+1086,2025-03-02,12,Chapalita,Residencial,20.658,-103.402,53.8,44,31.3,71.3,Muchos camiones
+1087,2025-04-10,23,Centro,Residencial,20.6612,-103.389,63.5,53,24.8,68.4,Zona ruidosa
+1088,2025-05-04,5,Tlaquepaque Centro,Comercial,20.642,-103.312,34.2,25,16.6,48.5,Mucho tráfico
+1089,2025-03-18,1,Americana,Mixta,20.6666,-103.381,36.1,18,21.5,89,Música alta
+1090,2025-02-12,11,Centro,Comercial,20.6737,-103.344,75.6,66,25.7,50.2,Sin incidencias
+1091,2025-03-28,8,Americana,Mixta,20.6666,-103.381,96.2,85,22.5,68.2,Mercado cercano
+1092,2025-02-01,8,Americana,Mixta,20.6666,-103.381,86.5,63,22.5,52,Mucho tráfico
+1093,2025-07-26,11,Tlaquepaque Centro,Comercial,20.642,-103.312,66,64,24.6,64.7,Sin incidencias
+1094,2025-05-05,18,Centro,Comercial,20.6737,-103.344,104.5,82,20.2,50.8,Poco tráfico
+1095,2025-06-06,1,Tlaquepaque Centro,Comercial,20.642,-103.312,34.7,24,17.3,66.8,Mucho ruido
+1096,2025-03-24,5,Americana,Mixta,20.6666,-103.381,30,36,17.2,66.9,Sin incidencias
+1097,2025-02-07,10,Americana,Mixta,20.6666,-103.381,69.5,63,23.4,67.1,Zona tranquila
+1098,2025-06-18,8,Centro,Comercial,20.6737,-103.344,96.9,91,29.1,65.2,Obras en la zona
+1099,2025-03-08,18,Zona Industrial,Industrial,20.645,-103.32,91.2,57,23.2,51.8,Tráfico intenso
+1100,2025-06-16,13,Centro,Comercial,20.6737,-103.344,77.2,69,31.8,69.2,Muchos camiones
+1101,2025-03-21,23,Centro,Comercial,20.6737,-103.344,77.6,57,20.8,52.8,Zona tranquila
+1102,2025-04-10,11,Zona Industrial,Industrial,20.645,-103.32,82.2,44,20.8,59.9,Zona tranquila
+1103,2025-07-17,0,Tlaquepaque Centro,Comercial,20.642,-103.312,46.1,40,20.4,50.3,Mercado cercano
+1104,2025-06-30,1,Providencia,Residencial,20.6612,-103.389,30,25,18,65.6,Muchos camiones
+1105,2025-04-17,17,Chapalita,Residencial,20.658,-103.402,118,62,23.4,59.9,Zona tranquila
+1106,2025-06-18,6,Chapalita,Residencial,20.658,-103.402,52.2,20,22.7,53.7,Poco tráfico
+1107,2025-06-04,4,Chapalita,Residencial,20.658,-103.402,32.5,13,17.2,79.5,Sin incidencias
+1108,2025-03-19,14,Zona Industrial,Industrial,20.645,-103.32,90.8,55,28.4,60.4,Poco tráfico
+1109,2025-06-22,21,Centro,Comercial,20.6737,-103.344,71,66,23.1,47.1,Mercado cercano
+1110,2025-04-12,20,Americana,Mixta,20.6666,-103.381,54.6,44,25,59.6,Mucho tráfico
+1111,2025-07-12,4,Providencia,Residencial,20.6612,-103.389,30,19,16.4,57.6,Mucho tráfico
+1113,2025-06-27,3,Zona Industrial,Industrial,20.645,-103.32,50,28,17,49.1,Zona ruidosa
+1114,2025-05-21,3,Centro,Comercial,20.6737,-103.344,43.1,23,14.3,44,Muchos camiones
+1115,2025-06-30,7,Providencia,Residencial,20.6612,-103.389,78.7,45,23.8,66.4,Poco tráfico
+1116,2025-02-18,0,Centro,Comercial,20.6737,-103.344,41.9,30,19,50,Sin incidencias
+1117,2025-07-29,19,Zona Industrial,Industrial,20.645,-103.32,107.6,72,25.7,75,Mercado cercano
+1118,2025-06-06,15,Tlaquepaque Centro,Comercial,20.642,-103.312,76.3,77,26.6,53.9,Mercado cercano
+1119,2025-04-08,14,Providencia,Residencial,20.6612,-103.389,65.3,33,29.2,40.5,Sin incidencias
+1120,2025-05-18,13,Zona Industrial,Industrial,20.645,-103.32,69.3,39,32.4,57,Mucho tráfico
+1121,2025-03-24,9,Americana,Mixta,20.6666,-103.381,95.1,80,25.7,50.4,Mucho ruido
+1122,2025-07-15,15,Tlaquepaque Centro,Comercial,20.642,-103.312,75.7,65,31.4,60,Muchos camiones
+1123,2025-05-21,13,Zona Industrial,Industrial,20.645,-103.32,88.5,55,29,49.7,Mucho ruido
+1124,2025-02-18,12,Americana,Mixta,20.6666,-103.381,75.1,57,28.5,65.9,Muchos camiones
+1125,2025-07-19,7,Centro,Comercial,20.6737,-103.344,90.4,76,24.2,67.8,Música alta
+1126,2025-04-06,17,Zona Industrial,Industrial,20.645,-103.32,101.5,54,25,59.7,Mercado cercano
+1127,2025-03-11,23,Zona Industrial,Industrial,20.645,-103.32,92,54,23.3,71.6,Poco tráfico
+1128,2025-02-15,14,Centro,Comercial,20.6737,-103.344,68.4,61,29.7,64.1,Obras en la zona
+1129,2025-07-27,22,Tlaquepaque Centro,Comercial,20.642,-103.312,57.3,63,25.9,46.2,Música alta
+1130,2025-05-08,1,Chapalita,Residencial,20.658,-103.402,30,18,19.5,68.9,Obras en la zona
+1131,2025-05-13,20,Centro,Comercial,20.6737,-103.344,83.9,75,23.6,66.7,Ruido por construcción
+1132,2025-07-18,10,Americana,Mixta,20.6666,-103.381,70.3,54,22.6,56.8,Zona ruidosa
+1133,2025-04-01,0,Zona Industrial,Industrial,20.645,-103.32,49.9,27,19.6,83,Obras en la zona
+1134,2025-07-12,21,Zona Industrial,Industrial,20.645,-103.32,76.6,48,24,75.6,Obras en la zona
+1135,2025-05-01,12,Providencia,Residencial,20.6612,-103.389,58.2,30,29.5,54.4,Mercado cercano
+1136,2025-02-18,7,Providencia,Residencial,20.6612,-103.389,73,46,25.3,53.6,Música alta
+1137,2025-03-07,7,Zona Industrial,Industrial,20.645,-103.32,107.1,68,23.8,60.4,Poco tráfico
+1138,2025-03-26,17,Centro,Comercial,20.6737,-103.344,95.6,90,27.6,64.4,Poco tráfico
+1139,2025-07-21,6,Providencia,Residencial,20.6612,-103.389,62.5,22,21.5,78.7,Zona ruidosa
+1140,2025-04-14,23,Centro,Comercial,20.6737,-103.344,85.6,83,21.3,62.6,Muchos camiones
+1141,2025-02-22,12,Chapalita,Residencial,20.658,-103.402,48.7,30,27.4,71.5,Ruido por construcción
+1142,2025-02-20,14,Chapalita,Residencial,20.658,-103.402,51.7,37,33.7,90.8,Mercado cercano
+1143,2025-07-25,7,Providencia,Residencial,20.6612,-103.389,79.7,56,23,59.4,Poco tráfico
+1144,2025-05-25,15,Tlaquepaque Centro,Comercial,20.642,-103.312,64.9,60,30.7,64.2,Música alta
+1145,2025-07-19,13,Providencia,Residencial,20.6612,-103.389,53.9,14,27.3,65.9,Mucho ruido
+1146,2025-06-22,23,Chapalita,Residencial,20.658,-103.402,50.2,28,22.7,71.3,Zona ruidosa
+1147,2025-03-01,15,Chapalita,Residencial,20.658,-103.402,44.9,27,30.5,62.5,Tráfico intenso
+1148,2025-02-11,11,Zona Industrial,Industrial,20.645,-103.32,81.7,41,25.6,53.3,Mucho ruido
+1149,2025-02-20,15,Americana,Mixta,20.6666,-103.381,85.5,68,33,54.4,Tráfico intenso
+1150,2025-07-29,10,Americana,Mixta,20.6666,-103.381,72.4,50,23.2,63.4,Ruido por construcción
+1151,2025-04-30,4,Chapalita,Residencial,20.658,-103.402,30,13,18.2,78.8,Música alta
+1152,2025-02-13,3,Tlaquepaque Centro,Comercial,20.642,-103.312,36.1,21,19.8,67.1,Poco tráfico
+1153,2025-04-17,13,Zona Industrial,Industrial,20.645,-103.32,90.7,51,27.5,72.7,Mercado cercano
+1154,2025-06-14,7,Tlaquepaque Centro,Comercial,20.642,-103.312,89.3,83,23.7,48.4,Mucho ruido
+1155,2025-04-08,21,Chapalita,Residencial,20.658,-103.402,56.5,32,23.9,62.4,Música alta
+1156,2025-05-03,14,Centro,Comercial,20.6737,-103.344,69,59,34.7,85.4,Zona tranquila
+1157,2025-07-22,10,Providencia,Residencial,20.6612,-103.389,56.9,51,23.6,45.3,Zona ruidosa
+1158,2025-02-11,23,Tlaquepaque Centro,Comercial,20.642,-103.312,71.3,79,24.5,62.3,Mucho tráfico
+1159,2025-02-19,19,Americana,Mixta,20.6666,-103.381,92.3,75,25.6,67.9,Zona tranquila
+1160,2025-02-11,9,Centro,Comercial,20.6737,-103.344,99.7,88,22.4,54,Poco tráfico
+1161,2025-04-04,18,Providencia,Residencial,20.6612,-103.389,79.6,54,24.8,56.5,Mucho ruido
+1162,2025-05-11,4,Chapalita,Residencial,20.658,-103.402,30,17,18.1,58.8,Ruido por construcción
+1163,2025-06-30,0,Zona Industrial,Industrial,20.645,-103.32,39.2,37,15.8,72.2,Sin incidencias
+1164,2025-06-19,11,Centro,Comercial,20.6737,-103.344,79.5,63,23.5,25.1,Mercado cercano
+1165,2025-07-05,17,Americana,Mixta,20.6666,-103.381,79.3,66,25.6,68.7,Zona tranquila
+1166,2025-02-02,5,Zona Industrial,Industrial,20.645,-103.32,41.4,27,19,56.6,Muchos camiones
+1167,2025-06-14,18,Tlaquepaque Centro,Comercial,20.642,-103.312,83.9,66,25.7,63.8,Música alta
+1168,2025-03-27,14,Tlaquepaque Centro,Comercial,20.642,-103.312,77.6,58,23.8,48.6,Muchos camiones
+1169,2025-03-20,17,Chapalita,Residencial,20.658,-103.402,64.9,25,21.7,75,Mercado cercano
+1170,2025-06-06,23,Zona Industrial,Industrial,20.645,-103.32,87.1,55,25.5,49.6,Ruido por construcción
+1171,2025-07-06,9,Zona Industrial,Residencial,20.658,-103.402,66.4,35,20.3,63.1,Poco tráfico
+1172,2025-03-01,0,Zona Industrial,Industrial,20.645,-103.32,36.5,20,16.2,64.6,Tráfico intenso
+1173,2025-07-19,5,Centro,Comercial,20.6737,-103.344,32.5,30,16.7,50.8,Mucho tráfico
+1174,2025-06-13,7,Chapalita,Residencial,20.658,-103.402,69.2,29,27.9,62.8,Música alta
+1175,2025-05-23,20,Chapalita,Residencial,20.658,-103.402,50.6,38,26.2,65.6,Mucho tráfico
+1176,2025-05-06,8,Centro,Comercial,20.6737,-103.344,102.1,95,23.6,62.7,Mucho ruido
+1177,2025-05-18,17,Zona Industrial,Comercial,20.6737,-103.344,87.6,72,28.2,51.5,Mercado cercano
+1178,2025-05-23,14,Chapalita,Residencial,20.658,-103.402,48.4,29,27.3,62.6,Ruido por construcción
+1179,2025-06-17,7,Centro,Comercial,20.6737,-103.344,101.2,100,23.3,60.1,Tráfico intenso
+1180,2025-04-24,21,Providencia,Residencial,20.6612,-103.389,62.6,37,18.9,73.6,Muchos camiones
+1181,2025-07-06,21,Providencia,Residencial,20.6612,-103.389,57.9,51,22.1,55.7,Mucho ruido
+1182,2025-02-15,4,Tlaquepaque Centro,Comercial,20.642,-103.312,30,37,18,51.8,Tráfico intenso
+1183,2025-04-01,17,Zona Industrial,Industrial,20.645,-103.32,112.7,63,23.1,58.9,Muchos camiones
+1184,2025-02-17,7,Tlaquepaque Centro,Comercial,20.642,-103.312,103,80,24.1,49.7,Mucho tráfico
+1185,2025-03-13,19,Zona Industrial,Industrial,20.645,-103.32,111.3,74,21.8,73.3,Mercado cercano
+1186,2025-02-25,19,Tlaquepaque Centro,Comercial,20.642,-103.312,96.7,85,24.9,49.4,Sin incidencias
+1187,2025-04-17,3,Providencia,Residencial,20.6612,-103.389,30,25,18.2,61.4,Mucho tráfico
+1188,2025-02-19,8,Americana,Mixta,20.6666,-103.381,100.7,73,24.8,63.4,Mercado cercano
+1189,2025-03-24,10,Tlaquepaque Centro,Comercial,20.642,-103.312,82.1,69,23.5,80.9,Ruido por construcción
+1190,2025-02-11,23,Centro,Comercial,20.6737,-103.344,83.6,71,25.5,63.5,Zona ruidosa
+1191,2025-06-23,15,Providencia,Residencial,20.6612,-103.389,60.6,48,31.6,57.5,Mercado cercano
+1192,2025-04-29,9,Tlaquepaque Centro,Comercial,20.642,-103.312,104.8,90,25.5,54.1,Zona tranquila
+1193,2025-04-24,3,Americana,Mixta,20.6666,-103.381,38.8,28,17.7,41.9,Ruido por construcción
+1194,2025-06-19,0,Chapalita,Residencial,20.658,-103.402,30,14,17.8,23.6,Ruido por construcción
+1195,2025-03-05,10,Zona Industrial,Industrial,20.645,-103.32,85.4,57,21.5,63.6,Tráfico intenso
+1196,2025-05-16,1,Americana,Mixta,20.6666,-103.381,33.5,26,17.8,52.8,Tráfico intenso
+1197,2025-02-23,7,Americana,Mixta,20.6666,-103.381,72.9,70,26.5,67.4,Tráfico intenso
+1198,2025-02-17,21,Chapalita,Residencial,20.658,-103.402,47.3,21,24.4,66.2,Tráfico intenso
+1199,2025-06-18,22,Zona Industrial,Industrial,20.645,-103.32,98.9,52,25.3,62.5,Obras en la zona
+1200,2025-02-18,12,Zona Industrial,Industrial,20.645,-103.32,90.3,62,30,52.1,Mucho tráfico
+1201,2025-07-02,17,Providencia,Residencial,20.6612,-103.389,73.4,49,23.4,57.5,Obras en la zona
+1202,2025-05-13,9,Providencia,Residencial,20.6612,-103.389,80.2,62,24.3,36.6,Tráfico intenso
+1203,2025-04-30,19,Chapalita,Residencial,20.658,-103.402,60.7,40,23.9,46.7,Obras en la zona
+1204,2025-07-28,20,Zona Industrial,Industrial,20.645,-103.32,85.8,63,22.1,54.4,Obras en la zona
+1205,2025-04-12,18,Zona Industrial,Industrial,20.645,-103.32,103.2,61,23.8,83.1,Zona ruidosa
+1206,2025-05-14,3,Centro,Comercial,20.6737,-103.344,40.3,31,15.8,51.7,Obras en la zona
+1207,2025-06-20,12,Centro,Comercial,20.6737,-103.344,82,79,25.9,81.5,Zona ruidosa
+1208,2025-04-21,14,Chapalita,Residencial,20.658,-103.402,59.5,39,32.2,52.9,Zona tranquila
+1209,2025-06-11,2,Centro,Comercial,20.6737,-103.344,32.7,28,20.8,69.6,Ruido por construcción
+1210,2025-07-09,17,Americana,Mixta,20.6666,-103.381,94.2,79,27.1,48.7,Zona tranquila
+1211,2025-02-21,3,Chapalita,Residencial,20.658,-103.402,30,28,16.1,59.8,Poco tráfico
+1212,2025-04-03,17,Zona Industrial,Industrial,20.645,-103.32,105.5,70,24.6,64.3,Zona ruidosa
+1213,2025-07-12,11,Chapalita,Residencial,20.658,-103.402,42.5,33,23.5,69.8,Zona tranquila
+1214,2025-02-28,16,Centro,Comercial,20.6737,-103.344,76.9,83,30,67.7,Mucho ruido
+1215,2025-07-14,10,Americana,Mixta,20.6666,-103.381,70.6,64,23.6,62.3,Música alta
+1216,2025-07-04,9,Chapalita,Residencial,20.658,-103.402,71.1,28,26.2,29.1,Tráfico intenso
+1217,2025-06-09,14,Americana,Mixta,20.6666,-103.381,72.7,60,31.2,57.7,Poco tráfico
+1218,2025-05-01,19,Providencia,Residencial,20.6612,-103.389,68.4,57,22.7,74.4,Ruido por construcción
+1219,2025-02-21,15,Centro,Industrial,20.645,-103.32,93.9,47,33.3,42.9,Música alta
+1220,2025-07-20,3,Tlaquepaque Centro,Comercial,20.642,-103.312,31.3,26,16.3,65.2,Sin incidencias
+1221,2025-05-31,13,Chapalita,Residencial,20.658,-103.402,43.2,24,27.6,68.3,Mucho ruido
+1222,2025-05-13,5,Providencia,Residencial,20.6612,-103.389,30,1,15.2,48.5,Tráfico intenso
+1223,2025-06-01,4,Americana,Mixta,20.6666,-103.381,37.7,33,18.6,76.5,Sin incidencias
+1224,2025-07-13,1,Centro,Comercial,20.6737,-103.344,33.7,23,17,59.5,Sin incidencias
+1225,2025-05-05,19,Tlaquepaque Centro,Comercial,20.642,-103.312,89.8,74,22.8,68.7,Zona ruidosa
+1226,2025-02-12,12,Centro,Comercial,20.6737,-103.344,80.6,66,26.3,70.5,Zona tranquila
+1227,2025-06-21,21,Tlaquepaque Centro,Comercial,20.642,-103.312,76.9,54,22.4,56,Obras en la zona
+1228,2025-03-22,10,Zona Industrial,Industrial,20.645,-103.32,80.7,49,23.8,84.8,Zona ruidosa
+1229,2025-03-05,1,Tlaquepaque Centro,Comercial,20.642,-103.312,35.7,21,14.9,58.7,Tráfico intenso
+1230,2025-07-02,4,Centro,Comercial,20.6737,-103.344,36.5,27,15.5,61.1,Mucho tráfico
+1231,2025-02-09,2,Tlaquepaque Centro,Comercial,20.642,-103.312,34,25,15.3,71,Zona ruidosa
+1232,2025-07-09,4,Americana,Mixta,20.6666,-103.381,36,31,18.9,50.4,Muchos camiones
+1233,2025-05-07,3,Centro,Comercial,20.6737,-103.344,40.6,44,19.4,60.9,Música alta
+1234,2025-06-08,18,Providencia,Residencial,20.6612,-103.389,55.1,38,21.3,83.5,Mucho tráfico
+1235,2025-03-03,14,Chapalita,Residencial,20.658,-103.402,57.2,34,31.2,71.4,Tráfico intenso
+1236,2025-04-01,4,Chapalita,Residencial,20.658,-103.402,30,25,15.7,56.4,Mercado cercano
+1237,2025-05-02,17,Chapalita,Residencial,20.658,-103.402,67.1,18,25.9,53.1,Muchos camiones
+1238,2025-05-10,23,Providencia,Residencial,20.6612,-103.389,49.6,32,23.3,72.9,Zona ruidosa
+1239,2025-05-29,13,Centro,Comercial,20.6737,-103.344,82.8,78,31.5,60.2,Muchos camiones
+1240,2025-07-01,8,Americana,Mixta,20.6666,-103.381,95.4,79,25.3,53.9,Ruido por construcción
+1241,2025-05-25,23,Zona Industrial,Industrial,20.645,-103.32,75.4,53,24.2,43.9,Tráfico intenso
+1242,2025-07-15,23,Americana,Mixta,20.6666,-103.381,72.5,60,22.5,40.5,Zona ruidosa
+1243,2025-07-21,10,Chapalita,Residencial,20.658,-103.402,59.2,39,27.3,64.5,Tráfico intenso
+1244,2025-06-27,2,Chapalita,Residencial,20.658,-103.402,30,17,20.3,47.6,Zona tranquila
+1245,2025-06-24,10,Americana,Mixta,20.6666,-103.381,79.7,59,25.8,52.2,Zona ruidosa
+1246,2025-07-17,17,Providencia,Residencial,20.6612,-103.389,79,51,24.9,66.2,Mercado cercano
+1247,2025-05-07,19,Chapalita,Residencial,20.658,-103.402,65.3,36,21,85.9,Zona ruidosa
+1248,2025-03-22,5,Providencia,Residencial,20.6612,-103.389,33.5,28,13.6,68.7,Mucho tráfico
+1249,2025-06-27,0,Zona Industrial,Industrial,20.645,-103.32,50.2,37,16,81.1,Mucho tráfico
+1250,2025-06-12,5,Providencia,Residencial,20.6612,-103.389,37.5,24,18.8,58.3,Música alta
+1251,2025-07-29,3,Providencia,Residencial,20.6612,-103.389,30,17,17.6,64.4,Muchos camiones
+1252,2025-07-13,17,Centro,Comercial,20.6737,-103.344,87.4,72,20.9,51,Música alta
+1253,2025-03-06,10,Americana,Mixta,20.6666,-103.381,71.3,55,22.3,70.9,Poco tráfico
+1254,2025-07-07,19,Providencia,Residencial,20.6612,-103.389,72,45,26.1,65.3,Zona tranquila
+1255,2025-04-18,10,Providencia,Residencial,20.6612,-103.389,63.4,38,21,58.7,Zona tranquila
+1256,2025-03-26,21,Providencia,Residencial,20.6612,-103.389,56.9,43,22.3,48.7,Mucho ruido
+1257,2025-04-08,13,Zona Industrial,Industrial,20.645,-103.32,92.9,72,28.5,69.4,Poco tráfico
+1258,2025-04-30,5,Chapalita,Residencial,20.658,-103.402,30,22,17.8,63.6,Tráfico intenso
+1259,2025-03-25,3,Americana,Mixta,20.6666,-103.381,34,26,15,48.6,Mucho ruido
+1260,2025-07-18,11,Chapalita,Residencial,20.658,-103.402,60.4,41,25.9,80.8,Zona tranquila
+1261,2025-06-13,15,Zona Industrial,Industrial,20.645,-103.32,79.8,44,34.1,66.4,Tráfico intenso
+1262,2025-02-05,20,Centro,Comercial,20.6737,-103.344,78.6,64,24.7,52.4,Mercado cercano
+1263,2025-05-05,20,Americana,Mixta,20.6666,-103.381,66.5,53,23.9,30.8,Sin incidencias
+1264,2025-04-12,9,Chapalita,Residencial,20.658,-103.402,58.1,35,28.7,39.9,Muchos camiones
+1265,2025-05-21,9,Americana,Mixta,20.6666,-103.381,89.2,66,23.5,71.1,Ruido por construcción
+1266,2025-06-25,19,Americana,Mixta,20.6666,-103.381,94.3,89,22.6,62.6,Ruido por construcción
+1267,2025-05-09,6,Providencia,Residencial,20.6612,-103.389,60.8,46,24.3,68.4,Música alta
+1268,2025-02-17,6,Tlaquepaque Centro,Comercial,20.642,-103.312,75.1,77,25.7,48,Zona ruidosa
+1269,2025-02-11,7,Tlaquepaque Centro,Comercial,20.642,-103.312,105.2,88,25.7,59.5,Mucho ruido
+1270,2025-02-14,6,Providencia,Residencial,20.6612,-103.389,59.1,48,23.7,63.5,Zona ruidosa
+1271,2025-05-15,22,Americana,Mixta,20.6666,-103.381,68.4,65,25.4,55.6,Obras en la zona
+1272,2025-07-11,15,Centro,Comercial,20.6737,-103.344,82.2,80,28.5,68.5,Mercado cercano
+1273,2025-07-12,7,Zona Industrial,Industrial,20.645,-103.32,92.2,55,25.3,70.8,Música alta
+1274,2025-06-18,2,Tlaquepaque Centro,Comercial,20.642,-103.312,37.4,29,16.7,55.8,Ruido por construcción
+1275,2025-06-05,5,Americana,Mixta,20.6666,-103.381,35.9,35,19.3,41.8,Obras en la zona
+1276,2025-03-10,8,Zona Industrial,Industrial,20.645,-103.32,108.4,63,24,68.5,Sin incidencias
+1277,2025-02-12,1,Americana,Mixta,20.6666,-103.381,39.5,46,16.5,40.5,Muchos camiones
+1278,2025-03-07,12,Providencia,Residencial,20.6612,-103.389,60.2,42,30.2,57.9,Mercado cercano
+1279,2025-05-15,23,Zona Industrial,Industrial,20.645,-103.32,89.4,61,20.7,51.7,Mucho tráfico
+1280,2025-03-05,17,Chapalita,Residencial,20.658,-103.402,73.1,42,24,61.8,Mucho tráfico
+1281,2025-07-21,0,Centro,Comercial,20.6737,-103.344,46.2,50,17.1,55.6,Zona ruidosa
+1282,2025-05-29,14,Chapalita,Residencial,20.658,-103.402,46.5,28,29.1,78.2,Tráfico intenso
+1283,2025-02-11,7,Tlaquepaque Centro,Comercial,20.642,-103.312,94.1,87,23.8,59.8,Zona ruidosa
+1284,2025-04-13,10,Providencia,Residencial,20.6612,-103.389,44,35,26.4,60.9,Sin incidencias
+1285,2025-04-22,12,Providencia,Residencial,20.6612,-103.389,59.2,39,27.4,60,Tráfico intenso
+1286,2025-02-04,9,Centro,Comercial,20.6737,-103.344,105.4,94,22.9,58,Tráfico intenso
+1287,2025-04-17,19,Providencia,Residencial,20.6612,-103.389,70.7,46,21.3,53.9,Obras en la zona
+1288,2025-03-19,12,Centro,Comercial,20.6737,-103.344,76.9,79,28.8,73.6,Muchos camiones
+1289,2025-02-14,8,Providencia,Residencial,20.6612,-103.389,77.2,51,22,67.9,Ruido por construcción
+1290,2025-03-23,4,Tlaquepaque Centro,Comercial,20.642,-103.312,33.4,28,16.4,47,Zona ruidosa
+1291,2025-07-05,2,Providencia,Residencial,20.6612,-103.389,30,17,16.7,70.1,Poco tráfico
+1292,2025-04-16,8,Americana,Mixta,20.6666,-103.381,97.1,73,22.5,59.7,Mucho ruido
+1293,2025-07-27,19,Chapalita,Residencial,20.658,-103.402,65,38,25.3,61.8,Mucho tráfico
+1294,2025-07-07,0,Centro,Comercial,20.6737,-103.344,41.3,33,16.7,35.4,Zona ruidosa
+1295,2025-07-16,8,Tlaquepaque Centro,Comercial,20.642,-103.312,91.1,90,22.5,52.2,Ruido por construcción
+1296,2025-02-19,5,Americana,Mixta,20.6666,-103.381,35.6,32,18.1,69.2,Poco tráfico
+1297,2025-02-21,9,Americana,Mixta,20.6666,-103.381,92.1,84,24.3,53.6,Tráfico intenso
+1298,2025-03-21,5,Americana,Mixta,20.6666,-103.381,32.4,34,17.6,62.3,Muchos camiones
+1299,2025-02-06,10,Americana,Mixta,20.6666,-103.381,78,64,22.9,66.4,Mercado cercano
+1300,2025-04-10,3,Americana,Mixta,20.6666,-103.381,31,38,19.6,40.8,Zona tranquila
+1301,2025-06-24,10,Providencia,Residencial,20.6612,-103.389,56.8,35,22.1,41,Muchos camiones
+1302,2025-05-18,11,Chapalita,Residencial,20.658,-103.402,47.9,24,26.8,40.3,Poco tráfico
+1303,2025-04-19,15,Zona Industrial,Industrial,20.645,-103.32,67.9,50,30.2,51.2,Mercado cercano
+1304,2025-06-07,20,Zona Industrial,Industrial,20.645,-103.32,73.4,39,23.9,70.5,Zona ruidosa
+1305,2025-04-10,17,Centro,Comercial,20.6737,-103.344,100.9,99,21.9,69.4,Mucho ruido
+1306,2025-05-31,1,Zona Industrial,Industrial,20.645,-103.32,33.8,22,19.6,49.2,Obras en la zona
+1307,2025-03-02,17,Providencia,Residencial,20.6612,-103.389,62.4,42,20.9,79.4,Tráfico intenso
+1308,2025-04-03,7,Providencia,Residencial,20.6612,-103.389,79.5,45,22.9,76.4,Ruido por construcción
+1309,2025-07-23,4,Americana,Mixta,20.6666,-103.381,36.1,39,18.6,71.5,Muchos camiones
+1310,2025-05-27,8,Chapalita,Residencial,20.658,-103.402,69.8,45,20.9,73.1,Música alta
+1311,2025-04-09,2,Zona Industrial,Industrial,20.645,-103.32,45.5,30,16.8,59,Poco tráfico
+1312,2025-04-09,5,Tlaquepaque Centro,Comercial,20.642,-103.312,42.8,30,20.4,52.9,Obras en la zona
+1313,2025-05-07,13,Centro,Comercial,20.6737,-103.344,80.5,66,32.8,69,Sin incidencias
+1314,2025-05-03,4,Zona Industrial,Industrial,20.645,-103.32,32,18,16.3,64.8,Ruido por construcción
+1315,2025-07-30,1,Chapalita,Residencial,20.658,-103.402,37.1,30,20.8,79.1,Muchos camiones
+1316,2025-04-11,8,Tlaquepaque Centro,Comercial,20.642,-103.312,103,88,22.6,46.4,Música alta
+1317,2025-03-14,3,Zona Industrial,Industrial,20.645,-103.32,49.5,44,21,76.4,Zona ruidosa
+1318,2025-02-20,20,Americana,Mixta,20.6666,-103.381,73.2,62,23.1,46.5,Zona tranquila
+1319,2025-04-16,11,Zona Industrial,Industrial,20.645,-103.32,91.1,59,21.7,58.1,Mucho tráfico
+1320,2025-03-12,0,Zona Industrial,Industrial,20.645,-103.32,40.2,21,22.3,34.4,Poco tráfico
+1321,2025-06-29,0,Americana,Mixta,20.6666,-103.381,30,36,17,60.6,Zona tranquila
+1322,2025-03-30,17,Americana,Mixta,20.6666,-103.381,81.6,63,24.3,63.9,Tráfico intenso
+1323,2025-04-24,11,Tlaquepaque Centro,Comercial,20.642,-103.312,76.6,72,26,67.2,Zona tranquila
+1324,2025-03-15,10,Centro,Comercial,20.6737,-103.344,67.6,51,25,69,Zona ruidosa
+1325,2025-02-01,11,Zona Industrial,Industrial,20.645,-103.32,79.8,52,23.7,54.7,Mucho ruido
+1326,2025-07-12,10,Zona Industrial,Industrial,20.645,-103.32,72.4,50,22.3,42.8,Sin incidencias
+1327,2025-04-17,14,Americana,Mixta,20.6666,-103.381,72.8,44,26,78.2,Zona ruidosa
+1328,2025-06-22,22,Centro,Comercial,20.6737,-103.344,65.6,55,25.3,63.7,Obras en la zona
+1329,2025-04-08,4,Americana,Mixta,20.6666,-103.381,33,23,17.6,55.3,Mucho tráfico
+1330,2025-03-20,22,Chapalita,Residencial,20.658,-103.402,52.2,39,23.4,51.6,Mucho ruido
+1331,2025-02-20,20,Americana,Mixta,20.6666,-103.381,78.2,67,24.2,68.2,Mercado cercano
+1332,2025-05-01,19,Centro,Comercial,20.6737,-103.344,105.3,84,25.1,58.7,Poco tráfico
+1333,2025-06-12,17,Zona Industrial,Industrial,20.645,-103.32,115,67,25.9,70.3,Zona tranquila
+1334,2025-02-04,20,Providencia,Residencial,20.6612,-103.389,62.9,46,23.3,50.3,Muchos camiones
+1335,2025-04-22,2,Providencia,Residencial,20.6612,-103.389,30,7,16.8,50.3,Obras en la zona
+1336,2025-03-08,18,Providencia,Residencial,20.6612,-103.389,65.9,43,24.2,60.3,Ruido por construcción
+1337,2025-06-25,21,Chapalita,Residencial,20.658,-103.402,61.8,34,23.1,70.1,Tráfico intenso
+1338,2025-07-17,16,Americana,Mixta,20.6666,-103.381,73.5,65,31.9,43.9,Poco tráfico
+1339,2025-03-31,14,Tlaquepaque Centro,Comercial,20.642,-103.312,69.4,59,31.4,55.6,Obras en la zona
+1340,2025-04-10,2,Americana,Mixta,20.6666,-103.381,40.3,26,16.8,63.5,Mucho tráfico
+1341,2025-06-17,4,Zona Industrial,Industrial,20.645,-103.32,46.5,31,21.2,53.3,Obras en la zona
+1342,2025-03-03,17,Chapalita,Residencial,20.658,-103.402,65.2,41,25.7,58.4,Tráfico intenso
+1343,2025-03-13,23,Zona Industrial,Industrial,20.645,-103.32,84.1,62,24.2,59.9,Música alta
+1344,2025-07-09,9,Chapalita,Residencial,20.658,-103.402,69.7,49,23.9,50.8,Zona tranquila
+1345,2025-03-07,4,Americana,Mixta,20.6666,-103.381,38.3,32,16,62.7,Mucho tráfico
+1346,2025-04-14,2,Zona Industrial,Industrial,20.645,-103.32,40.4,42,17.1,75.5,Zona ruidosa
+1347,2025-03-21,7,Centro,Comercial,20.6737,-103.344,104.1,95,22.7,71.4,Mercado cercano
+1348,2025-07-16,20,Zona Industrial,Industrial,20.645,-103.32,91.4,58,25.4,71.8,Poco tráfico
+1349,2025-04-23,10,Americana,Mixta,20.6666,-103.381,69.2,65,24,48.6,Obras en la zona
+1350,2025-06-25,12,Providencia,Residencial,20.6612,-103.389,61.8,31,27.4,45.1,Tráfico intenso
+1351,2025-04-18,18,Zona Industrial,Industrial,20.645,-103.32,111.9,70,22.2,65,Ruido por construcción
+1352,2025-05-19,3,Chapalita,Residencial,20.658,-103.402,30,13,18.1,73.7,Tráfico intenso
+1353,2025-07-25,19,Zona Industrial,Industrial,20.645,-103.32,111.5,70,21.8,71.5,Música alta
+1354,2025-05-04,16,Centro,Comercial,20.6737,-103.344,61.6,61,28.9,65.8,Tráfico intenso
+1355,2025-03-25,3,Chapalita,Residencial,20.658,-103.402,33,13,16.5,75.2,Sin incidencias
+1356,2025-02-16,22,Tlaquepaque Centro,Comercial,20.642,-103.312,119,48,24.6,66.9,Música alta
+1357,2025-06-23,15,Providencia,Residencial,20.6612,-103.389,67.2,32,33.8,38.6,Muchos camiones
+1358,2025-05-02,8,Americana,Mixta,20.6666,-103.381,90.5,64,24.3,43.9,Música alta
+1359,2025-06-30,13,Providencia,Residencial,20.6612,-103.389,59.3,42,28.6,68,Mercado cercano
+1360,2025-06-16,10,Providencia,Residencial,20.6612,-103.389,64.4,39,21.4,56.1,Tráfico intenso
+1361,2025-04-06,21,Tlaquepaque Centro,Comercial,20.642,-103.312,73.5,63,21.6,44.2,Ruido por construcción
+1362,2025-02-05,4,Centro,Comercial,20.6737,-103.344,37.8,38,20.6,69.6,Ruido por construcción
+1363,2025-02-09,10,Providencia,Residencial,20.6612,-103.389,48.8,29,23.8,82.5,Poco tráfico
+1364,2025-03-03,11,Centro,Mixta,20.6666,-103.381,70.2,57,26.4,66.4,Zona ruidosa
+1365,2025-04-08,5,Chapalita,Residencial,20.658,-103.402,30,6,20.3,38.6,Muchos camiones
+1366,2025-07-19,2,Tlaquepaque Centro,Comercial,20.642,-103.312,34.8,23,20.9,64.3,Obras en la zona
+1367,2025-03-04,14,Centro,Comercial,20.6737,-103.344,81,92,26.7,48.8,Mercado cercano
+1368,2025-03-25,13,Americana,Mixta,20.6666,-103.381,69,67,25.4,58.7,Zona tranquila
+1369,2025-02-23,16,Providencia,Residencial,20.6612,-103.389,50.2,24,30,77.8,Muchos camiones
+1370,2025-04-23,6,Centro,Comercial,20.6737,-103.344,78.2,54,21.3,66.1,Zona tranquila
+1371,2025-03-30,0,Zona Industrial,Industrial,20.645,-103.32,40.8,18,19.6,63.6,Mucho tráfico
+1372,2025-07-01,17,Providencia,Residencial,20.6612,-103.389,69.6,54,24.9,64.6,Poco tráfico
+1373,2025-05-26,2,Americana,Mixta,20.6666,-103.381,38.6,33,18.2,54.3,Mucho ruido
+1374,2025-02-25,8,Americana,Mixta,20.6666,-103.381,97.6,76,23.9,56.2,Mucho ruido
+1375,2025-03-10,10,Chapalita,Residencial,20.658,-103.402,55,27,25.3,59.7,Poco tráfico
+1376,2025-03-02,19,Americana,Mixta,20.6666,-103.381,73.3,68,25.7,42.1,Zona ruidosa
+1377,2025-07-16,16,Providencia,Residencial,20.6612,-103.389,55.2,44,32.2,85.6,Zona ruidosa
+1378,2025-06-12,22,Chapalita,Residencial,20.658,-103.402,60.7,55,24,60.9,Poco tráfico
+1379,2025-05-27,14,Centro,Comercial,20.6737,-103.344,88.6,70,27.6,38.5,Mucho ruido
+1380,2025-04-11,3,Tlaquepaque Centro,Comercial,20.642,-103.312,34,32,18.1,63.4,Obras en la zona
+1381,2025-07-04,17,Centro,Comercial,20.6737,-103.344,102.7,93,25.5,74.3,Poco tráfico
+1382,2025-03-11,2,Zona Industrial,Industrial,20.645,-103.32,39.5,22,17.6,65.8,Zona tranquila
+1383,2025-05-07,19,Tlaquepaque Centro,Comercial,20.642,-103.312,95,92,23,73.4,Muchos camiones
+1384,2025-07-05,3,Chapalita,Residencial,20.658,-103.402,30,3,18.1,62.2,Zona ruidosa
+1385,2025-06-06,10,Providencia,Residencial,20.6612,-103.389,55.8,41,23.9,57.3,Tráfico intenso
+1386,2025-04-16,11,Americana,Mixta,20.6666,-103.381,66.4,47,22.6,81.8,Zona tranquila
+1387,2025-06-29,12,Providencia,Residencial,20.6612,-103.389,55.4,39,29.2,51.8,Zona tranquila
+1388,2025-05-08,17,Tlaquepaque Centro,Comercial,20.642,-103.312,95.5,83,25,51.8,Ruido por construcción
+1389,2025-05-26,10,Providencia,Residencial,20.6612,-103.389,60.3,52,25.9,66,Zona tranquila
+1390,2025-04-13,7,Centro,Comercial,20.6737,-103.344,88,71,25.9,63.6,Mercado cercano
+1391,2025-02-17,18,Providencia,Residencial,20.6612,-103.389,71,40,23,59.2,Obras en la zona
+1392,2025-06-04,15,Chapalita,Residencial,20.658,-103.402,57.6,43,28.4,69,Muchos camiones
+1393,2025-05-05,14,Providencia,Residencial,20.6612,-103.389,59.7,41,26,66.8,Mucho ruido
+1394,2025-04-19,20,Zona Industrial,Industrial,20.645,-103.32,73.6,33,21,71.4,Sin incidencias
+1395,2025-07-02,17,Chapalita,Residencial,20.658,-103.402,71.3,46,22.6,60.8,Mucho ruido
+1396,2025-06-15,19,Zona Industrial,Industrial,20.645,-103.32,94,52,26.4,39.1,Muchos camiones
+1397,2025-07-11,4,Providencia,Residencial,20.6612,-103.389,32,23,15.5,64.2,Obras en la zona
+1398,2025-02-24,6,Tlaquepaque Centro,Comercial,20.642,-103.312,73.5,76,22.2,62.6,Poco tráfico
+1399,2025-04-28,17,Zona Industrial,Industrial,20.645,-103.32,110.5,69,20.6,49.3,Poco tráfico
+1400,2025-06-01,17,Chapalita,Residencial,20.658,-103.402,56.5,39,24.9,54.1,Muchos camiones
+1401,2025-03-18,9,Tlaquepaque Centro,Comercial,20.642,-103.312,104.7,100,19.4,71.9,Mucho tráfico
+1402,2025-02-27,4,Chapalita,Residencial,20.658,-103.402,30,11,20.3,39.3,Sin incidencias
+1403,2025-06-20,15,Chapalita,Residencial,20.658,-103.402,53.4,25,26.4,64.8,Zona ruidosa
+1404,2025-03-21,10,Centro,Comercial,20.6737,-103.344,80.8,77,25.6,52.9,Mercado cercano
+1405,2025-06-16,8,Americana,Mixta,20.6666,-103.381,87.4,82,21.3,47.7,Mucho ruido
+1406,2025-04-27,8,Tlaquepaque Centro,Comercial,20.642,-103.312,89.7,77,23.6,52,Mercado cercano
+1407,2025-05-09,0,Americana,Mixta,20.6666,-103.381,35.3,34,15.7,50.1,Tráfico intenso
+1408,2025-06-13,17,Chapalita,Residencial,20.658,-103.402,66.4,42,24.1,62.1,Mucho ruido
+1409,2025-06-02,5,Zona Industrial,Industrial,20.645,-103.32,41.4,32,17.7,56.3,Zona tranquila
+1410,2025-04-18,1,Providencia,Residencial,20.6612,-103.389,30,10,18.9,67.5,Sin incidencias
+1411,2025-05-06,12,Chapalita,Residencial,20.658,-103.402,59.7,35,28.8,48,Zona ruidosa
+1412,2025-07-04,10,Centro,Comercial,20.6737,-103.344,82,88,22.9,60.5,Mucho ruido
+1413,2025-02-20,4,Providencia,Residencial,20.6612,-103.389,31.3,20,15.9,65.2,Muchos camiones
+1414,2025-07-07,23,Chapalita,Residencial,20.658,-103.402,47.7,29,21.7,66,Zona ruidosa
+1415,2025-06-17,19,Centro,Comercial,20.6737,-103.344,97.6,94,21.8,71.1,Zona ruidosa
+1416,2025-03-21,2,Chapalita,Residencial,20.658,-103.402,30,26,20.7,61,Obras en la zona
+1417,2025-07-28,4,Centro,Comercial,20.6737,-103.344,44,36,22.5,51.3,Zona tranquila
+1418,2025-03-14,7,Centro,Comercial,20.6737,-103.344,105.9,98,23.9,68.9,Tráfico intenso
+1419,2025-06-19,2,Americana,Mixta,20.6666,-103.381,35.6,27,19.5,63.5,Ruido por construcción
+1420,2025-04-06,13,Centro,Comercial,20.6737,-103.344,66.1,56,29.4,63.1,Música alta
+1421,2025-05-09,13,Centro,Comercial,20.6737,-103.344,74.1,68,27.6,55.9,Poco tráfico
+1422,2025-05-24,14,Providencia,Residencial,20.6612,-103.389,53.8,45,29.5,55.6,Obras en la zona
+1423,2025-04-03,14,Providencia,Residencial,20.6612,-103.389,65.3,52,32.2,44.6,Tráfico intenso
+1424,2025-02-14,16,Providencia,Residencial,20.6612,-103.389,57.6,31,27.9,62.9,Poco tráfico
+1425,2025-04-29,2,Chapalita,Residencial,20.658,-103.402,30,17,20.3,47.8,Zona tranquila
+1426,2025-03-09,17,Chapalita,Residencial,20.658,-103.402,54.8,38,25.3,58.2,Mucho tráfico
+1427,2025-05-16,4,Americana,Mixta,20.6666,-103.381,31.3,20,18.1,76.5,Obras en la zona
+1428,2025-05-04,12,Zona Industrial,Industrial,20.645,-103.32,78.4,49,30.4,75.7,Muchos camiones
+1429,2025-06-18,1,Tlaquepaque Centro,Comercial,20.642,-103.312,47.9,31,19.9,64.4,Obras en la zona
+1430,2025-03-21,13,Centro,Comercial,20.6737,-103.344,72.3,58,28.5,72,Mucho ruido
+1431,2025-03-24,17,Zona Industrial,Industrial,20.645,-103.32,115,75,24.5,59.8,Muchos camiones
+1432,2025-06-30,5,Tlaquepaque Centro,Comercial,20.642,-103.312,38.1,30,15,55.8,Ruido por construcción
+1433,2025-07-22,5,Providencia,Residencial,20.6612,-103.389,30,8,16.8,46.5,Obras en la zona
+1434,2025-02-11,15,Providencia,Residencial,20.6612,-103.389,62.3,57,29,75.2,Poco tráfico
+1435,2025-02-18,0,Centro,Comercial,20.6737,-103.344,40.6,42,15.7,74.4,Obras en la zona
+1436,2025-06-07,2,Zona Industrial,Industrial,20.645,-103.32,38.6,33,15.3,51.2,Mucho ruido
+1437,2025-06-20,22,Providencia,Residencial,20.6612,-103.389,69.6,41,27.1,45.4,Mucho tráfico
+1438,2025-06-11,22,Chapalita,Residencial,20.658,-103.402,52.8,13,24.3,44.9,Muchos camiones
+1439,2025-07-24,18,Zona Industrial,Industrial,20.645,-103.32,114.3,64,24.5,66.9,Mercado cercano
+1440,2025-04-23,11,Providencia,Residencial,20.6612,-103.389,54.9,28,25.7,62.7,Sin incidencias
+1441,2025-05-23,17,Zona Industrial,Industrial,20.645,-103.32,106.5,65,23.6,61.1,Zona tranquila
+1442,2025-03-21,3,Providencia,Residencial,20.6612,-103.389,30,22,19.6,40.7,Mucho tráfico
+1443,2025-04-11,20,Providencia,Residencial,20.6612,-103.389,67.5,44,23.5,42.2,Mucho tráfico
+1444,2025-03-02,13,Tlaquepaque Centro,Comercial,20.642,-103.312,68.3,58,31.4,75,Música alta
+1445,2025-03-08,16,Chapalita,Residencial,20.658,-103.402,46.6,16,27.1,53.9,Ruido por construcción
+1446,2025-07-31,10,Providencia,Residencial,20.6612,-103.389,58.7,45,22.2,52,Mucho tráfico
+1447,2025-07-07,13,Centro,Comercial,20.6737,-103.344,79.4,66,29.4,57,Mercado cercano
+1448,2025-03-09,7,Chapalita,Residencial,20.658,-103.402,58.3,19,23.8,30.4,Mucho ruido
+1449,2025-05-21,9,Tlaquepaque Centro,Comercial,20.642,-103.312,68.35,77,21.8,75.7,Mucho ruido
+1450,2025-07-20,13,Providencia,Residencial,20.6612,-103.389,55.2,40,30.2,51.3,Mercado cercano
+1451,2025-07-20,18,Zona Industrial,Industrial,20.645,-103.32,89,61,24.6,34.7,Sin incidencias
+1452,2025-03-18,20,Americana,Mixta,20.6666,-103.381,75.6,56,23.9,58.4,Poco tráfico
+1453,2025-07-07,23,Tlaquepaque Centro,Comercial,20.642,-103.312,75.3,38,18.8,53.9,Poco tráfico
+1454,2025-03-23,9,Americana,Mixta,20.6666,-103.381,72.2,73,25,67.8,Mucho ruido
+1455,2025-03-04,18,Zona Industrial,Industrial,20.645,-103.32,115,73,23.8,60.5,Poco tráfico
+1456,2025-06-09,14,Americana,Mixta,20.6666,-103.381,71.9,61,29.9,66.7,Obras en la zona
+1457,2025-07-12,16,Centro,Comercial,20.6737,-103.344,70.6,55,27.4,54.2,Poco tráfico
+1458,2025-02-10,16,Americana,Mixta,20.6666,-103.381,74.7,51,30.2,80.4,Música alta
+1459,2025-04-10,1,Zona Industrial,Industrial,20.645,-103.32,49.8,23,20.1,51,Muchos camiones
+1460,2025-02-05,7,Chapalita,Residencial,20.658,-103.402,72.7,39,22.1,61.2,Mucho tráfico
+1461,2025-06-02,2,Zona Industrial,Industrial,20.645,-103.32,43.9,20,16.1,56.2,Muchos camiones
+1462,2025-05-25,9,Tlaquepaque Centro,Comercial,20.642,-103.312,80.7,67,23.5,74.7,Muchos camiones
+1463,2025-06-10,16,Tlaquepaque Centro,Comercial,20.642,-103.312,82.8,77,30.6,71,Ruido por construcción
+1464,2025-07-05,17,Providencia,Residencial,20.6612,-103.389,63.9,38,23.8,56,Mucho tráfico
+1465,2025-04-03,18,Centro,Comercial,20.6737,-103.344,105.5,93,26.7,50.5,Poco tráfico
+1466,2025-06-19,21,Americana,Mixta,20.6666,-103.381,71.4,64,22.3,61,Zona ruidosa
+1467,2025-04-05,2,Centro,Comercial,20.6737,-103.344,34.1,34,19.9,63,Zona tranquila
+1468,2025-05-12,23,Americana,Mixta,20.6666,-103.381,70.3,58,22.7,54.4,Tráfico intenso
+1469,2025-04-22,1,Americana,Mixta,20.6666,-103.381,35.4,36,17.2,63.1,Zona ruidosa
+1470,2025-05-10,12,Chapalita,Residencial,20.658,-103.402,41.6,28,29.3,53.6,Muchos camiones
+1471,2025-07-20,2,Tlaquepaque Centro,Comercial,20.642,-103.312,33.5,39,18.1,52.7,Sin incidencias
+1472,2025-06-21,15,Chapalita,Residencial,20.658,-103.402,43.8,28,29.6,58,Sin incidencias
+1473,2025-05-05,20,Zona Industrial,Industrial,20.645,-103.32,94.2,49,21.8,42.4,Mucho ruido
+1474,2025-03-03,8,Centro,Comercial,20.6737,-103.344,100.6,100,22.9,41.8,Tráfico intenso
+1475,2025-03-23,15,Centro,Comercial,20.6737,-103.344,67.7,59,29.5,76.8,Obras en la zona
+1476,2025-06-04,9,Americana,Mixta,20.6666,-103.381,94.3,82,24.2,68.2,Zona ruidosa
+1477,2025-02-17,16,Tlaquepaque Centro,Comercial,20.642,-103.312,78.5,81,31,48.1,Zona ruidosa
+1478,2025-05-26,13,Centro,Comercial,20.6737,-103.344,77.5,75,31.4,81.8,Obras en la zona
+1479,2025-07-28,8,Chapalita,Residencial,20.658,-103.402,71.1,47,22.7,69.3,Sin incidencias
+1480,2025-04-14,2,Zona Industrial,Industrial,20.645,-103.32,41.6,8,18.5,61.9,Mucho ruido
+1481,2025-04-03,3,Chapalita,Residencial,20.658,-103.402,30,6,15.9,66.6,Mercado cercano
+1482,2025-06-02,0,Chapalita,Residencial,20.658,-103.402,30,8,15.9,66.3,Música alta
+1483,2025-04-27,16,Centro,Comercial,20.6737,-103.344,73.4,63,32.6,66.1,Ruido por construcción
+1484,2025-07-25,5,Centro,Comercial,20.6737,-103.344,43.5,41,17.7,67.7,Zona tranquila
+1485,2025-03-04,9,Centro,Comercial,20.6737,-103.344,105.5,82,22.6,40.9,Música alta
+1486,2025-05-13,6,Americana,Mixta,20.6666,-103.381,72.7,68,25.3,48.3,Zona tranquila
+1487,2025-05-15,22,Americana,Mixta,20.6666,-103.381,73.3,90,24.8,44.4,Poco tráfico
+1488,2025-06-04,15,Chapalita,Residencial,20.658,-103.402,56.1,40,31.5,45.9,Muchos camiones
+1489,2025-06-09,17,Chapalita,Residencial,20.658,-103.402,62.9,33,25.3,43.3,Zona tranquila
+1490,2025-06-26,20,Americana,Mixta,20.6666,-103.381,70.1,52,24.7,71.4,Zona tranquila
+1491,2025-04-12,3,Tlaquepaque Centro,Comercial,20.642,-103.312,37.2,24,14.9,67,Muchos camiones
+1492,2025-05-02,22,Centro,Comercial,20.6737,-103.344,82,85,23.5,61.2,Mercado cercano
+1493,2025-04-12,22,Zona Industrial,Industrial,20.645,-103.32,73,46,24.1,84.7,Ruido por construcción
+1494,2025-03-08,11,Americana,Mixta,20.6666,-103.381,58.8,50,24.1,72.7,Mucho tráfico
+1495,2025-04-10,22,Chapalita,Residencial,20.658,-103.402,57.2,41,23.6,67.6,Zona tranquila
+1496,2025-04-16,6,Providencia,Residencial,20.6612,-103.389,65.7,54,25.9,61,Ruido por construcción
+1497,2025-06-07,20,Centro,Comercial,20.6737,-103.344,69.7,55,25.5,59.7,Mercado cercano
+1498,2025-02-27,23,Centro,Comercial,20.6737,-103.344,84.9,74,24.5,65.7,Zona ruidosa
+1499,2025-03-14,14,Zona Industrial,Industrial,20.645,-103.32,90.5,50,28.2,52.6,Obras en la zona
+1500,2025-04-16,18,Chapalita,Residencial,20.658,-103.402,65.9,32,21.7,63.7,Sin incidencias
